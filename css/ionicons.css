@@ -1485,7 +1485,11 @@
 
 .ion-xbox:before { content: ""; }
 
-.ion-shipt-barcode-scanner:before, .ion-shipt-checkbox-selected:before, .ion-shipt-checkbox-unselected:before { content: ""; }
+.ion-shipt-barcode-scanner:before { content: ""; }
+
+.ion-shipt-checkbox-selected:before { content: ";"; }
+
+.ion-shipt-checkbox-unselected:before { content: ""; }
 
 .ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 

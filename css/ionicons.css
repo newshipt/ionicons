@@ -1487,7 +1487,7 @@
 
 .ion-shipt-barcode-scanner:before { content: ""; }
 
-.ion-shipt-checkbox-selected:before { content: ";"; }
+.ion-shipt-checkbox-selected:before { content: ""; }
 
 .ion-shipt-checkbox-unselected:before { content: ""; }
 

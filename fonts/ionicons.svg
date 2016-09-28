@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Wed Sep 28 09:14:58 2016
+Created by FontForge 20160407 at Wed Sep 28 09:55:02 2016
  By Connor Eggleston
 Copyright (c) 2016, Connor Eggleston
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2016, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -73 531 457"
+    bbox="-0.54049 -69 521 453"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1781,8 +1781,8 @@ d="M3 374h50c2 0 4 -2 4 -4s-2 -4 -4 -4h-45v-45c0 -2 -2 -4 -4 -4s-4 2 -4 4v49c0 2
 c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM118 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM147 333c2 0 5 -2 5 -4v-147c0 -2 -3 -4 -5 -4s-4 2 -4 4v147c0 2 2 4 4 4zM184 333c2 0 4 -2 4 -4v-147c0 -2 -2 -4 -4 -4
 s-4 2 -4 4v147c0 2 2 4 4 4zM212 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM249 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM278 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-5 2 -5 4v147c0 2 2 4 4 4zM315 333
 c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM4 170c2 0 4 -3 4 -5v-45h45c2 0 4 -2 4 -4s-2 -4 -4 -4h-49c-2 0 -4 2 -4 4v49c0 2 2 5 4 5zM356 170c2 0 4 -3 4 -5v-49c0 -2 -2 -4 -4 -4h-49c-2 0 -4 2 -4 4s2 4 4 4h45v45c0 2 1 4 3 4z" />
-    <glyph glyph-name="ion-shipt-checkbox-selected" unicode="&#xf13c;" horiz-adv-x="531" 
-d="M19 -55v494h493v-494h-493zM0 -73h531v530h-531v-530zM171 192l47 -47l142 132l29 -28l-171 -161l-76 76z" />
+    <glyph glyph-name="ion-shipt-checkbox-selected" unicode="&#xf13c;" horiz-adv-x="521" 
+d="M9 -59v502h503v-502h-503zM0 -69h521v522h-521v-522zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
     <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="486" 
 d="M0 -52v486h486v-486h-486z" />
     <glyph glyph-name="ion-shuffle" unicode="&#xf221;" 

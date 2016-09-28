@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Wed Sep 28 10:20:17 2016
+Created by FontForge 20160407 at Wed Sep 28 10:29:06 2016
  By Connor Eggleston
 Copyright (c) 2016, Connor Eggleston
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2016, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -69 521 453"
+    bbox="-0.54049 -73 530 457"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1783,8 +1783,8 @@ s-4 2 -4 4v147c0 2 2 4 4 4zM212 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 
 c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM4 170c2 0 4 -3 4 -5v-45h45c2 0 4 -2 4 -4s-2 -4 -4 -4h-49c-2 0 -4 2 -4 4v49c0 2 2 5 4 5zM356 170c2 0 4 -3 4 -5v-49c0 -2 -2 -4 -4 -4h-49c-2 0 -4 2 -4 4s2 4 4 4h45v45c0 2 1 4 3 4z" />
     <glyph glyph-name="ion-shipt-checkbox-selected" unicode="&#xf13c;" horiz-adv-x="521" 
 d="M9 -59v502h503v-502h-503zM0 -69h521v522h-521v-522zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
-    <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="486" 
-d="M0 -52v486h486v-486h-486z" />
+    <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="530" 
+d="M530 -73v530h-530v-530h530zM512 439v-494h-494v494h494zM53 404h424v-424h-424v424zM35 422v-460h459v460h-459zM53 404h424v-424h-424v424zM35 422v-460h459v460h-459z" />
     <glyph glyph-name="ion-shuffle" unicode="&#xf221;" 
 d="M338 267c-52 0 -83 -43 -120 -92c-41 -55 -88 -120 -171 -120h-47v63h47c52 0 84 47 121 96c41 55 87 116 170 116h29v54l81 -81l-81 -84v48h-29zM121 230c-21 21 -42 35 -74 36c-34 1 -47 0 -47 0v63h47c48 0 83 -20 113 -48c-10 -12 -19 -24 -28 -36
 c-4 -5 -7 -10 -11 -15zM367 118v47l81 -84l-81 -81v54h-29c-50 0 -87 23 -117 53c12 14 22 28 32 41c2 3 5 6 7 9c22 -24 46 -39 78 -39h29z" />

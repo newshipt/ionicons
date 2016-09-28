@@ -1,9 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 29.1 29.1" style="enable-background:new 0 0 29.1 29.1;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:none;stroke:#D5D5D5;stroke-width:0.5;stroke-miterlimit:10;}
-</style>
-<rect x="0.7" y="0.8" class="st0" width="27.6" height="27.6" stroke-width="0.5"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+		"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+	 width="0.322222in" height="0.322222in"
+	 viewBox="0 0 29 29">
+	<path id="Selection"
+		  fill="none" stroke="black" stroke-width="1"
+		  d="M 29.00,0.00
+           C 29.00,0.00 29.00,29.00 29.00,29.00
+             29.00,29.00 0.00,29.00 0.00,29.00
+             0.00,29.00 0.00,0.00 0.00,0.00
+             0.00,0.00 29.00,0.00 29.00,0.00 Z
+           M 2.00,2.00
+           C 2.00,2.00 2.00,27.00 2.00,27.00
+             2.00,27.00 27.00,27.00 27.00,27.00
+             27.00,27.00 27.00,2.00 27.00,2.00
+             27.00,2.00 2.00,2.00 2.00,2.00 Z" />
 </svg>

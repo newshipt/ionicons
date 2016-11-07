@@ -1493,6 +1493,8 @@
 
 .ion-shipt-checkbox-unselected:before { content: ""; }
 
-.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-shipt-list:before { content: ""; }
+
+.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 /*# sourceMappingURL=ionicons.css.map */

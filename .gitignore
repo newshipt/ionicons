@@ -2,3 +2,6 @@ _site
 .sass-cache
 *.scssc
 *.swp
+.idea/
+css/ionicons.css.map
+css/ionicons.min.css.map

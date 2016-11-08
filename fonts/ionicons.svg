@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-9-28: Created with FontForge (http://fontforge.org)
+2016-11-7: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Wed Sep 28 10:36:13 2016
+Created by FontForge 20160407 at Mon Nov  7 16:36:22 2016
  By Connor Eggleston
 Copyright (c) 2016, Connor Eggleston
 </metadata>
@@ -1785,6 +1785,13 @@ c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM4 170c2 0 4 -3 4
 d="M9 -59v502h503v-502h-503zM0 -69h521v522h-521v-522zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
     <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="530" 
 d="M530 -73v530h-530v-530h530zM512 439v-494h-494v494h494z" />
+    <glyph glyph-name="ion-shipt-list" unicode="&#xf14c;" horiz-adv-x="332" 
+d="M206 68h-27c-1 0 -1 1 -2 1l-22 16l-25 -15c-2 -1 -4 -1 -5 0l-29 16l-35 -16c-2 -1 -3 -1 -4 0l-23 16l-26 -16c-2 -1 -4 -1 -5 0c-2 1 -3 2 -3 4v303c0 23 18 38 45 40h11l184 1h7c26 0 45 -20 45 -46c0 -3 -2 -5 -5 -5h-76v-293c0 -3 -2 -6 -5 -6zM181 79h20v298
+c0 13 5 23 14 30h-169c-8 0 -36 -5 -36 -30v-294l21 13c2 1 3 1 5 0l23 -16l34 17c2 1 3 1 4 0l30 -16l25 15c2 1 4 1 6 0zM211 377h71c-2 18 -16 30 -33 31l-2 -1h-6c-16 -2 -30 -12 -30 -30v0zM300 71v0c-2 0 -4 1 -5 3l-26 65c0 1 -1 2 -1 3v1v149v0v1v17
+c0 16 15 28 33 28c17 0 31 -13 31 -29v-168v0v0v0v0c0 -1 -1 -1 -1 -2l-26 -65c-1 -2 -3 -3 -5 -3zM294 104l6 -15l6 15h-12zM289 114h21l10 26l-6 11l-10 -12c-1 -1 -2 -1 -4 -1s-3 1 -4 2l-9 11l-8 -11zM287 165c2 0 3 -1 4 -2l10 -12l10 12c1 1 2 2 4 2s3 -1 4 -3l2 -4
+v129h-43v-131l5 7c1 1 2 2 4 2v0zM278 297h43v12c0 11 -10 19 -21 19c-12 0 -22 -8 -22 -18v-13zM147 113h-95c-3 0 -4 2 -4 5s1 5 4 5h95c3 0 5 -2 5 -5s-2 -5 -5 -5zM100 173h-48c-3 0 -4 2 -4 5s1 5 4 5h48c3 0 4 -2 4 -5s-1 -5 -4 -5zM114 197h-62c-3 0 -4 2 -4 5
+s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM65 235h-13c-3 0 -4 2 -4 5s1 4 4 4h13c3 0 5 -1 5 -4s-2 -5 -5 -5zM138 266h-86c-3 0 -4 2 -4 5s1 5 4 5h86c3 0 5 -2 5 -5s-2 -5 -5 -5zM114 306h-62c-3 0 -4 2 -4 5s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM93 335h-41
+c-3 0 -4 2 -4 5s1 5 4 5h41c3 0 4 -2 4 -5s-1 -5 -4 -5zM160 361h-108c-3 0 -4 2 -4 5s1 5 4 5h108c3 0 5 -2 5 -5s-2 -5 -5 -5z" />
     <glyph glyph-name="ion-shuffle" unicode="&#xf221;" 
 d="M338 267c-52 0 -83 -43 -120 -92c-41 -55 -88 -120 -171 -120h-47v63h47c52 0 84 47 121 96c41 55 87 116 170 116h29v54l81 -81l-81 -84v48h-29zM121 230c-21 21 -42 35 -74 36c-34 1 -47 0 -47 0v63h47c48 0 83 -20 113 -48c-10 -12 -19 -24 -28 -36
 c-4 -5 -7 -10 -11 -15zM367 118v47l81 -84l-81 -81v54h-29c-50 0 -87 23 -117 53c12 14 22 28 32 41c2 3 5 6 7 9c22 -24 46 -39 78 -39h29z" />

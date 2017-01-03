@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2016-11-7: Created with FontForge (http://fontforge.org)
+2017-1-3: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20160407 at Mon Nov  7 16:36:22 2016
- By Connor Eggleston
-Copyright (c) 2016, Connor Eggleston
+Created by FontForge 20170101 at Tue Jan  3 10:41:06 2017
+ By Chace
+Copyright (c) 2017, Chace
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="448" >
@@ -19,7 +19,7 @@ Copyright (c) 2016, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -73 530 457"
+    bbox="-0.54049 -73 530 465"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1782,9 +1782,9 @@ c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM118 333c2 0 5 -2
 s-4 2 -4 4v147c0 2 2 4 4 4zM212 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM249 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM278 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-5 2 -5 4v147c0 2 2 4 4 4zM315 333
 c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM4 170c2 0 4 -3 4 -5v-45h45c2 0 4 -2 4 -4s-2 -4 -4 -4h-49c-2 0 -4 2 -4 4v49c0 2 2 5 4 5zM356 170c2 0 4 -3 4 -5v-49c0 -2 -2 -4 -4 -4h-49c-2 0 -4 2 -4 4s2 4 4 4h45v45c0 2 1 4 3 4z" />
     <glyph glyph-name="ion-shipt-checkbox-selected" unicode="&#xf13c;" horiz-adv-x="521" 
-d="M9 -59v502h503v-502h-503zM0 -69h521v522h-521v-522zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
+d="M9 -59v502h503v-502h-503zM5 -69h512h4v5v512v5h-4h-512h-5v-5v-512v-5h5zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
     <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="530" 
-d="M530 -73v530h-530v-530h530zM512 439v-494h-494v494h494z" />
+d="M530 448v9h-9h-512h-9v-9v-512v-9h9h512h9v9v512zM512 439v-494h-494v494h494z" />
     <glyph glyph-name="ion-shipt-list" unicode="&#xf14c;" horiz-adv-x="332" 
 d="M206 68h-27c-1 0 -1 1 -2 1l-22 16l-25 -15c-2 -1 -4 -1 -5 0l-29 16l-35 -16c-2 -1 -3 -1 -4 0l-23 16l-26 -16c-2 -1 -4 -1 -5 0c-2 1 -3 2 -3 4v303c0 23 18 38 45 40h11l184 1h7c26 0 45 -20 45 -46c0 -3 -2 -5 -5 -5h-76v-293c0 -3 -2 -6 -5 -6zM181 79h20v298
 c0 13 5 23 14 30h-169c-8 0 -36 -5 -36 -30v-294l21 13c2 1 3 1 5 0l23 -16l34 17c2 1 3 1 4 0l30 -16l25 15c2 1 4 1 6 0zM211 377h71c-2 18 -16 30 -33 31l-2 -1h-6c-16 -2 -30 -12 -30 -30v0zM300 71v0c-2 0 -4 1 -5 3l-26 65c0 1 -1 2 -1 3v1v149v0v1v17
@@ -1792,6 +1792,20 @@ c0 16 15 28 33 28c17 0 31 -13 31 -29v-168v0v0v0v0c0 -1 -1 -1 -1 -2l-26 -65c-1 -2
 v129h-43v-131l5 7c1 1 2 2 4 2v0zM278 297h43v12c0 11 -10 19 -21 19c-12 0 -22 -8 -22 -18v-13zM147 113h-95c-3 0 -4 2 -4 5s1 5 4 5h95c3 0 5 -2 5 -5s-2 -5 -5 -5zM100 173h-48c-3 0 -4 2 -4 5s1 5 4 5h48c3 0 4 -2 4 -5s-1 -5 -4 -5zM114 197h-62c-3 0 -4 2 -4 5
 s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM65 235h-13c-3 0 -4 2 -4 5s1 4 4 4h13c3 0 5 -1 5 -4s-2 -5 -5 -5zM138 266h-86c-3 0 -4 2 -4 5s1 5 4 5h86c3 0 5 -2 5 -5s-2 -5 -5 -5zM114 306h-62c-3 0 -4 2 -4 5s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM93 335h-41
 c-3 0 -4 2 -4 5s1 5 4 5h41c3 0 4 -2 4 -5s-1 -5 -4 -5zM160 361h-108c-3 0 -4 2 -4 5s1 5 4 5h108c3 0 5 -2 5 -5s-2 -5 -5 -5z" />
+    <glyph glyph-name="ion-shipt_icon_add" unicode="&#xf14d;" horiz-adv-x="495" 
+d="M17 217c0 128 103 231 231 231s231 -103 231 -231s-103 -231 -231 -231s-231 103 -231 231zM0 217c0 -137 111 -248 248 -248s247 111 247 248s-110 248 -247 248s-248 -111 -248 -248zM268 196h87h17v17v24v17h-17h-87v87v16h-16h-25h-16v-16v-87h-87h-17v-17v-24v-17
+h17h87v-87v-16h16h25h16v16v87z" />
+    <glyph glyph-name="ion-shipt_icon_close" unicode="&#xf14e;" horiz-adv-x="499" 
+d="M295 189v0l202 -203l-50 -50l-202 203l-196 -196l-49 50l195 195l-193 193l50 50l193 -193l205 204l49 -49z" />
+    <glyph glyph-name="ion-shipt_icon_filled_checkmark" unicode="&#xf14f;" horiz-adv-x="489" 
+d="M0 192c0 -135 109 -244 244 -244s245 109 245 244s-110 244 -245 244s-244 -109 -244 -244zM23 192c0 122 99 221 221 221s221 -99 221 -221s-99 -221 -221 -221s-221 99 -221 221zM12 192c0 129 103 233 232 233s233 -104 233 -233s-104 -233 -233 -233
+s-232 104 -232 233zM12 425c323 -674 80 -263 184 -367l168 168zM333 256l-15 16l-121 -121l-41 41l-5 -5zM210 105l1 -1l-14 -14l-72 71l15 15l57 -58l137 137l13 -13l-137 -137v0z" />
+    <glyph glyph-name="ion-shipt_icon_remove" unicode="&#xf150;" horiz-adv-x="495" 
+d="M17 217c0 128 103 231 231 231s231 -103 231 -231s-103 -231 -231 -231s-231 103 -231 231zM0 217c0 -137 111 -248 248 -248s247 111 247 248s-110 248 -247 248s-248 -111 -248 -248zM372 237v17h-17h-231h-17v-17v-24v-17h17h231h17v17v24z" />
+    <glyph glyph-name="ion-shipt_scanner_small" unicode="&#xf151;" horiz-adv-x="496" 
+d="M9 392c0 37 1 37 38 37h403c37 0 37 0 37 -37v-212c0 -37 0 -37 -37 -37h-403c-37 0 -38 0 -38 37v212zM0 392v-212c0 -39 8 -47 47 -47h403c39 0 46 8 46 47v212c0 39 -7 47 -46 47h-403c-39 0 -47 -8 -47 -47zM19 392c0 35 -7 28 28 28h403c35 0 28 7 28 -28v-212
+c0 -35 7 -28 -28 -28h-403c-35 0 -28 -7 -28 28v212zM9 392c0 37 1 37 38 37h403c37 0 37 0 37 -37v-212c0 -37 0 -37 -37 -37h-403c-37 0 -38 0 -38 37v212zM168 356zM186 356zM214 356zM251 356zM316 356zM270 356zM288 214h10v142h-10zM140 236zM344 236zM140 383z
+M354 383v-49h-10v40h-42v9z" />
     <glyph glyph-name="ion-shuffle" unicode="&#xf221;" 
 d="M338 267c-52 0 -83 -43 -120 -92c-41 -55 -88 -120 -171 -120h-47v63h47c52 0 84 47 121 96c41 55 87 116 170 116h29v54l81 -81l-81 -84v48h-29zM121 230c-21 21 -42 35 -74 36c-34 1 -47 0 -47 0v63h47c48 0 83 -20 113 -48c-10 -12 -19 -24 -28 -36
 c-4 -5 -7 -10 -11 -15zM367 118v47l81 -84l-81 -81v54h-29c-50 0 -87 23 -117 53c12 14 22 28 32 41c2 3 5 6 7 9c22 -24 46 -39 78 -39h29z" />

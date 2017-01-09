@@ -1,5 +1,5 @@
 {
-  "build_hash": "553604277e9ccf4a58fdd11dcb09fa1d",
+  "build_hash": "5b74e1831d79147be0ee37943973ec47",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2457,28 +2457,28 @@
       "name": "shipt-checkbox-unselected"
     },
     {
+      "code": "0xf152",
+      "name": "shipt-icon-add"
+    },
+    {
+      "code": "0xf153",
+      "name": "shipt-icon-close"
+    },
+    {
+      "code": "0xf154",
+      "name": "shipt-icon-filled-checkmark"
+    },
+    {
+      "code": "0xf155",
+      "name": "shipt-icon-remove"
+    },
+    {
       "code": "0xf14c",
       "name": "shipt-list"
     },
     {
-      "code": "0xf14d",
-      "name": "shipt_icon_add"
-    },
-    {
-      "code": "0xf14e",
-      "name": "shipt_icon_close"
-    },
-    {
-      "code": "0xf14f",
-      "name": "shipt_icon_filled_checkmark"
-    },
-    {
-      "code": "0xf150",
-      "name": "shipt_icon_remove"
-    },
-    {
-      "code": "0xf151",
-      "name": "shipt_scanner_small"
+      "code": "0xf156",
+      "name": "shipt-scanner-small"
     },
     {
       "code": "0xf221",

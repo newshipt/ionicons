@@ -5,6 +5,11 @@ $ionicon-var-shipt-barcode-scanner: "\f13b";
 $ionicon-var-shipt-checkbox-selected: "\f13c";
 $ionicon-var-shipt-checkbox-unselected: "\f145";
 $ionicon-var-shipt-list: "\f14c";
+$ionicon-var-shipt_icon_add: "\f14d";
+$ionicon-var-shipt_icon_close: "\f14e";
+$ionicon-var-shipt_icon_filled_checkmark: "\f14f";
+$ionicon-var-shipt_icon_remove: "\f150";
+$ionicon-var-shipt_scanner_small: "\f151";
 
 // Content Mapping
 // ===============================================
@@ -24,12 +29,37 @@ $ionicon-var-shipt-list: "\f14c";
   content: $ionicon-var-shipt-list;
 }
 
+.ion-shipt_icon_add:before {
+  content: $ionicon-var-shipt_icon_add;
+}
+
+.ion-shipt_icon_close:before {
+  content: $ionicon-var-shipt_icon_close;
+}
+
+.ion-shipt_icon_filled_checkmark:before {
+  content: $ionicon-var-shipt_icon_filled_checkmark;
+}
+
+.ion-shipt_icon_remove:before {
+  content: $ionicon-var-shipt_icon_remove;
+}
+
+.ion-shipt_scanner_small:before {
+  content: $ionicon-var-shipt_scanner_small;
+}
+
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
 .#{$ionicons-prefix}shipt-checkbox-selected:before,
 .#{$ionicons-prefix}shipt-checkbox-unselected:before,
-.#{$ionicons-prefix}shipt-list:before
+.#{$ionicons-prefix}shipt-list:before,
+.#{$ionicons-prefix}shipt_icon_add:before,
+.#{$ionicons-prefix}shipt_icon_close:before,
+.#{$ionicons-prefix}shipt_icon_filled_checkmark:before,
+.#{$ionicons-prefix}shipt_icon_remove:before,
+.#{$ionicons-prefix}shipt_scanner_small:before
 {
   @extend .ion;
 }
@@ -39,7 +69,12 @@ $ionicon-var-shipt-list: "\f14c";
 .ion-shipt-barcode-scanner,
 .ion-shipt-checkbox-selected,
 .ion-shipt-checkbox-unselected,
-.ion-shipt-list {
+.ion-shipt-list,
+.ion-shipt_icon_add,
+.ion-shipt_icon_close,
+.ion-shipt_icon_filled_checkmark,
+.ion-shipt_icon_remove,
+.ion-shipt_scanner_small {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

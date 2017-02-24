@@ -1525,6 +1525,16 @@
 
 .ion-shipt-scanner-small:before { content: ""; }
 
-.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-shipt-address:before { content: ""; }
+
+.ion-shipt-autopilot:before { content: ""; }
+
+.ion-shipt-orders:before { content: ""; }
+
+.ion-shipt-payment:before { content: ""; }
+
+.ion-shipt-rewards-program:before { content: ""; }
+
+.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small, .ion-shipt-address, .ion-shipt-autopilot, .ion-shipt-orders, .ion-shipt-payment, .ion-shipt-rewards-program { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 /*# sourceMappingURL=ionicons.css.map */

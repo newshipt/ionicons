@@ -4,6 +4,7 @@
 $ionicon-var-shipt-barcode-scanner: "\f13b";
 $ionicon-var-shipt-checkbox-selected: "\f13c;";
 $ionicon-var-shipt-checkbox-unselected: "\f145";
+$ionicon-var-shipt-play: "\f146";
 
 // Content Mapping
 // ===============================================
@@ -19,11 +20,16 @@ $ionicon-var-shipt-checkbox-unselected: "\f145";
   content: $ionicon-var-shipt-checkbox-unselected;
 }
 
+.ion-shipt-play:before {
+  content: $ionicon-var-shipt-play;
+}
+
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
 .#{$ionicons-prefix}shipt-checkbox-selected:before,
-.#{$ionicons-prefix}shipt-checkbox-unselected:before
+.#{$ionicons-prefix}shipt-checkbox-unselected:before,
+.#{$ionicons-prefix}shipt-play:before
 {
   @extend .ion;
 }
@@ -32,7 +38,8 @@ $ionicon-var-shipt-checkbox-unselected: "\f145";
 // ===============================================
 .ion-shipt-barcode-scanner,
 .ion-shipt-checkbox-selected,
-.ion-shipt-checkbox-unselected {
+.ion-shipt-checkbox-unselected,
+.ion-shipt-play {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

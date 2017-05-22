@@ -3,17 +3,8 @@
     <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
     <title>Group</title>
     <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Account" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Payment-Method" transform="translate(-319.000000, -253.000000)">
-            <g id="cards" transform="translate(0.000000, 82.000000)">
-                <g id="card-2" transform="translate(0.000000, 135.000000)">
-                    <g id="Group" transform="translate(320.000000, 37.000000)">
-                        <circle id="Oval-" stroke="#6BB0FF" fill="#6BB0FF" cx="12" cy="12" r="12"></circle>
-                        <circle id="Oval" fill="#FFFFFF" cx="12" cy="12" r="6"></circle>
-                    </g>
-                </g>
-            </g>
-        </g>
+    <g >
+        <circle id="" stroke="#6BB0FF" fill="#6BB0FF" cx="13" cy="13" r="12"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="13" cy="13" r="6"></circle>
     </g>
 </svg>

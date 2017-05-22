@@ -10,6 +10,8 @@ $ionicon-var-shipt-icon-close: "\f153";
 $ionicon-var-shipt-icon-filled-checkmark: "\f154";
 $ionicon-var-shipt-icon-remove: "\f155";
 $ionicon-var-shipt-scanner-small: "\f156";
+$ionicon-var-shipt-radio-selected: "\f157";
+$ionicon-var-shipt-radio-unselected: "\f158";
 
 // Content Mapping
 // ===============================================
@@ -49,6 +51,14 @@ $ionicon-var-shipt-scanner-small: "\f156";
   content: $ionicon-var-shipt-scanner-small;
 }
 
+.ion-shipt-radio-selected:before {
+  content: $ionicon-var-shipt-radio-selected;
+}
+
+.ion-shipt-radio-unselected:before {
+  content: $ionicon-var-shipt-radio-unselected;
+}
+
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
@@ -59,7 +69,9 @@ $ionicon-var-shipt-scanner-small: "\f156";
 .#{$ionicons-prefix}shipt-icon-close:before,
 .#{$ionicons-prefix}shipt-icon-filled-checkmark:before,
 .#{$ionicons-prefix}shipt-icon-remove:before,
-.#{$ionicons-prefix}shipt-scanner-small:before
+.#{$ionicons-prefix}shipt-scanner-small:before,
+.#{$ionicons-prefix}shipt-radio-selected:before,
+.#{$ionicons-prefix}shipt-radio-unselected:before
 {
   @extend .ion;
 }
@@ -74,7 +86,9 @@ $ionicon-var-shipt-scanner-small: "\f156";
 .ion-shipt-icon-close,
 .ion-shipt-icon-filled-checkmark,
 .ion-shipt-icon-remove,
-.ion-shipt-scanner-small {
+.ion-shipt-scanner-small,
+.ion-shipt-radio-selected,
+.ion-shipt-radio-unselected {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

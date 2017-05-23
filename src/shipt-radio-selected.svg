@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
-    <title>Radio btn</title>
-    <desc>Created with Sketch.</desc>
-    <defs></defs>
-    <g id="Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Delivery-Options-" transform="translate(-330.000000, -239.000000)">
-            <g id="Current-address" transform="translate(0.000000, 153.000000)">
-                <g id="Radio-btn" transform="translate(331.000000, 87.000000)">
-                    <circle id="Oval-6" stroke="#6BB0FF" fill="#6BB0FF" cx="12" cy="12" r="12"></circle>
-                    <circle id="Oval" fill="#FFFFFF" cx="12" cy="12" r="6"></circle>
-                </g>
-            </g>
-        </g>
+    <g>
+        <circle id="Outter" fill="#000000" cx="13" cy="13" r="13"></circle>
+        <circle id="Inner" fill="#FFFFFF" cx="13" cy="13" r="6"></circle>
     </g>
 </svg>

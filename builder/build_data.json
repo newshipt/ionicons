@@ -1,5 +1,5 @@
 {
-  "build_hash": "196af922defb031664ff083dcff6d159",
+  "build_hash": "59e990a5658d1ddca8929499657efb30",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2443,6 +2443,10 @@
     {
       "code": "0xf220",
       "name": "share"
+    },
+    {
+      "code": "0xf159",
+      "name": "shipt-add-note"
     },
     {
       "code": "0xf13b",

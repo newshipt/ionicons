@@ -1,5 +1,5 @@
 {
-  "build_hash": "78f9c8e5402aca3c25a8183a84e7369d",
+  "build_hash": "18b6f223e61ada06a3dd4d42a8f3d3ab",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2453,8 +2453,28 @@
       "name": "shipt-address"
     },
     {
+      "code": "0xf15b",
+      "name": "shipt-autopilot"
+    },
+    {
+      "code": "0xf15c",
+      "name": "shipt-barcode"
+    },
+    {
       "code": "0xf13b",
       "name": "shipt-barcode-scanner"
+    },
+    {
+      "code": "0xf15d",
+      "name": "shipt-buy-again"
+    },
+    {
+      "code": "0xf15f",
+      "name": "shipt-cart"
+    },
+    {
+      "code": "0xf160",
+      "name": "shipt-category"
     },
     {
       "code": "0xf13c",
@@ -2463,6 +2483,34 @@
     {
       "code": "0xf145",
       "name": "shipt-checkbox-unselected"
+    },
+    {
+      "code": "0xf161",
+      "name": "shipt-credit"
+    },
+    {
+      "code": "0xf162",
+      "name": "shipt-curbside"
+    },
+    {
+      "code": "0xf163",
+      "name": "shipt-date"
+    },
+    {
+      "code": "0xf164",
+      "name": "shipt-delivery-instructions"
+    },
+    {
+      "code": "0xf166",
+      "name": "shipt-edit"
+    },
+    {
+      "code": "0xf167",
+      "name": "shipt-email"
+    },
+    {
+      "code": "0xf168",
+      "name": "shipt-help"
     },
     {
       "code": "0xf152",
@@ -2481,8 +2529,28 @@
       "name": "shipt-icon-remove"
     },
     {
+      "code": "0xf16a",
+      "name": "shipt-info"
+    },
+    {
+      "code": "0xf16b",
+      "name": "shipt-invite"
+    },
+    {
       "code": "0xf14c",
       "name": "shipt-list"
+    },
+    {
+      "code": "0xf16d",
+      "name": "shipt-orders"
+    },
+    {
+      "code": "0xf16e",
+      "name": "shipt-phone"
+    },
+    {
+      "code": "0xf16f",
+      "name": "shipt-product-note"
     },
     {
       "code": "0xf157",
@@ -2493,8 +2561,20 @@
       "name": "shipt-radio-unselected"
     },
     {
+      "code": "0xf171",
+      "name": "shipt-rewards"
+    },
+    {
       "code": "0xf156",
       "name": "shipt-scanner-small"
+    },
+    {
+      "code": "0xf173",
+      "name": "shipt-search"
+    },
+    {
+      "code": "0xf174",
+      "name": "shipt-time"
     },
     {
       "code": "0xf221",

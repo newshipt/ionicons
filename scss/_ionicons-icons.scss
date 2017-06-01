@@ -612,6 +612,7 @@
 .#{$ionicons-prefix}search:before,
 .#{$ionicons-prefix}settings:before,
 .#{$ionicons-prefix}share:before,
+.#{$ionicons-prefix}shipt-add-note:before,
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
 .#{$ionicons-prefix}shipt-checkbox-selected:before,
 .#{$ionicons-prefix}shipt-checkbox-unselected:before,
@@ -1359,6 +1360,7 @@
 .#{$ionicons-prefix}search:before { content: $ionicon-var-search; }
 .#{$ionicons-prefix}settings:before { content: $ionicon-var-settings; }
 .#{$ionicons-prefix}share:before { content: $ionicon-var-share; }
+.#{$ionicons-prefix}shipt-add-note:before { content: $ionicon-var-shipt-add-note; }
 .#{$ionicons-prefix}shipt-barcode-scanner:before { content: $ionicon-var-shipt-barcode-scanner; }
 .#{$ionicons-prefix}shipt-checkbox-selected:before { content: $ionicon-var-shipt-checkbox-selected; }
 .#{$ionicons-prefix}shipt-checkbox-unselected:before { content: $ionicon-var-shipt-checkbox-unselected; }

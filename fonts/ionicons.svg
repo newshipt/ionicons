@@ -1,13 +1,13 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-5-31: Created with FontForge (http://fontforge.org)
+2017-5-22: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Wed May 31 17:34:54 2017
- By Connor Eggleston
-Copyright (c) 2017, Connor Eggleston
+Created by FontForge 20170104 at Mon May 22 19:45:14 2017
+ By Alan Kenyon
+Copyright (c) 2017, Alan Kenyon
 </metadata>
 <defs>
 <font id="Ionicons" horiz-adv-x="448" >
@@ -1776,10 +1776,6 @@ c-2 -2 -5 -2 -7 0l-8 9c-7 0 -15 -5 -17 -10c-3 -6 -6 -21 -3 -33c3 -11 13 -20 36 -
 s0 -3 1 -5l2 -2l2 -2l41 -42l3 -3l1 -1c1 -1 2 -1 4 -1s3 0 4 1l2 1l2 3z" />
     <glyph glyph-name="ion-share" unicode="&#xf220;" horiz-adv-x="384" 
 d="M288 70v59l38 31v-109c0 -11 -8 -19 -19 -19h-288c-11 0 -19 9 -19 19v218c0 11 8 19 19 19h120c-29 -18 -43 -38 -43 -38h-58v-180h250zM256 224c-84 0 -116 -24 -160 -96c0 0 5 164 160 164v60l128 -96l-128 -96v64z" />
-    <glyph glyph-name="ion-shipt-add-note" unicode="&#xf159;" horiz-adv-x="467" 
-d="M406 403c33 0 61 -28 61 -61v-297c0 -33 -26 -62 -61 -62h-345c-35 0 -61 29 -61 62v297c0 35 26 61 61 61h345zM442 47v290c0 23 -18 41 -41 41h-333c-23 0 -41 -18 -41 -41v-290c0 -23 18 -41 41 -41h333c23 0 41 18 41 41zM342 174c4 0 8 -7 8 -13s-4 -12 -8 -12h-217
-c-4 0 -8 6 -8 12s4 13 8 13h217zM322 90c4 0 8 -7 8 -13s-4 -12 -8 -12h-177c-4 0 -8 6 -8 12s4 13 8 13h177zM184 270l-22 22c-8 8 -4 19 6 21l33 4c4 0 6 2 8 6l14 31c4 8 17 8 21 0l14 -33c2 -4 4 -6 8 -6l33 -4c8 0 12 -13 6 -19l-24 -22c-4 -2 -5 -6 -5 -10l7 -33
-c2 -10 -9 -16 -17 -12l-28 16c-2 2 -7 2 -11 0l-28 -16c-8 -4 -19 2 -17 12l6 33c0 4 -2 8 -4 10z" />
     <glyph glyph-name="ion-shipt-barcode-scanner" unicode="&#xf13b;" horiz-adv-x="360" 
 d="M3 374h50c2 0 4 -2 4 -4s-2 -4 -4 -4h-45v-45c0 -2 -2 -4 -4 -4s-4 2 -4 4v49c0 2 1 4 3 4zM306 374h50c2 0 4 -2 4 -4v-49c0 -2 -2 -4 -4 -4s-4 2 -4 4v45h-45c-2 0 -4 2 -4 4s1 4 3 4zM45 333c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM81 333
 c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM118 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM147 333c2 0 5 -2 5 -4v-147c0 -2 -3 -4 -5 -4s-4 2 -4 4v147c0 2 2 4 4 4zM184 333c2 0 4 -2 4 -4v-147c0 -2 -2 -4 -4 -4

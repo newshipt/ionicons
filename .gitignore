@@ -5,3 +5,4 @@ _site
 .idea/
 css/ionicons.css.map
 css/ionicons.min.css.map
+.DS_Store

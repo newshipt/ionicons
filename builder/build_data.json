@@ -1,5 +1,5 @@
 {
-  "build_hash": "7e446b56d2d00314b41e037552a2785b",
+  "build_hash": "90a27a1ceced35b7e896addd754278eb",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2537,6 +2537,10 @@
       "name": "shipt-phone"
     },
     {
+      "code": "0xf16f",
+      "name": "shipt-product-note"
+    },
+    {
       "code": "0xf157",
       "name": "shipt-radio-selected"
     },
@@ -2545,8 +2549,20 @@
       "name": "shipt-radio-unselected"
     },
     {
+      "code": "0xf171",
+      "name": "shipt-rewards"
+    },
+    {
       "code": "0xf156",
       "name": "shipt-scanner-small"
+    },
+    {
+      "code": "0xf173",
+      "name": "shipt-search"
+    },
+    {
+      "code": "0xf174",
+      "name": "shipt-time"
     },
     {
       "code": "0xf221",

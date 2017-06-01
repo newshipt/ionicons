@@ -14,6 +14,7 @@ $ionicon-var-shipt-radio-selected: "\f157";
 $ionicon-var-shipt-radio-unselected: "\f158";
 $ionicon-var-shipt-add-note: "\f159";
 $ionicon-var-shipt-address: "\f15a";
+$ionicon-var-shipt-curbside: "\f15b";
 
 // Content Mapping
 // ===============================================
@@ -69,6 +70,10 @@ $ionicon-var-shipt-address: "\f15a";
   content: $ionicon-var-shipt-address;
 }
 
+.ion-shipt-curbside:before {
+  content: $ionicon-var-shipt-curbside;
+}
+
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
@@ -83,7 +88,8 @@ $ionicon-var-shipt-address: "\f15a";
 .#{$ionicons-prefix}shipt-radio-selected:before,
 .#{$ionicons-prefix}shipt-radio-unselected:before,
 .#{$ionicons-prefix}shipt-add-note:before,
-.#{$ionicons-prefix}shipt-address:before
+.#{$ionicons-prefix}shipt-address:before,
+.#{$ionicons-prefix}shipt-curbside:before
 {
   @extend .ion;
 }
@@ -102,7 +108,8 @@ $ionicon-var-shipt-address: "\f15a";
 .ion-shipt-radio-selected,
 .ion-shipt-radio-unselected,
 .ion-shipt-add-note,
-.ion-shipt-address {
+.ion-shipt-address,
+.ion-shipt-curbside {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

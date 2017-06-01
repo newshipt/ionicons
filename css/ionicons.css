@@ -1585,6 +1585,56 @@
 
 .ion-shipt-curbside:before { content: ""; }
 
-.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small, .ion-shipt-radio-selected, .ion-shipt-radio-unselected, .ion-shipt-add-note, .ion-shipt-address, .ion-shipt-curbside { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-shipt-autopilot:before { content: ""; }
+
+.ion-shipt-barcode:before { content: ""; }
+
+.ion-shipt-buy-again:before { content: ""; }
+
+.ion-shipt-camera:before { content: ""; }
+
+.ion-shipt-cart:before { content: ""; }
+
+.ion-shipt-category:before { content: ""; }
+
+.ion-shipt-date:before { content: ""; }
+
+.ion-shipt-delivery:before { content: ""; }
+
+.ion-shipt-delivery-instructions:before { content: ""; }
+
+.ion-shipt-edit:before { content: ""; }
+
+.ion-shipt-email:before { content: ""; }
+
+.ion-shipt-help:before { content: ""; }
+
+.ion-shipt-image:before { content: ""; }
+
+.ion-shipt-info:before { content: ""; }
+
+.ion-shipt-invite:before { content: ""; }
+
+.ion-shipt-location:before { content: ""; }
+
+.ion-shipt-orders:before { content: ""; }
+
+.ion-shipt-phone:before { content: ""; }
+
+.ion-shipt-product-note:before { content: ""; }
+
+.ion-shipt-profile:before { content: ""; }
+
+.ion-shipt-rewards:before { content: ""; }
+
+.ion-shipt-sale:before { content: ""; }
+
+.ion-shipt-search:before { content: ""; }
+
+.ion-shipt-time:before { content: ""; }
+
+.ion-shipt-credit:before { content: ""; }
+
+.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small, .ion-shipt-radio-selected, .ion-shipt-radio-unselected, .ion-shipt-add-note, .ion-shipt-address, .ion-shipt-curbside, .ion-shipt-autopilot, .ion-shipt-barcode, .ion-shipt-buy-again, .ion-shipt-camera, .ion-shipt-cart, .ion-shipt-category, .ion-shipt-date, .ion-shipt-delivery, .ion-shipt-delivery-instructions, .ion-shipt-edit, .ion-shipt-email, .ion-shipt-help, .ion-shipt-image, .ion-shipt-info, .ion-shipt-invite, .ion-shipt-location, .ion-shipt-orders, .ion-shipt-phone, .ion-shipt-product-note, .ion-shipt-profile, .ion-shipt-rewards, .ion-shipt-sale, .ion-shipt-search, .ion-shipt-time, .ion-shipt-credit { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 /*# sourceMappingURL=ionicons.css.map */

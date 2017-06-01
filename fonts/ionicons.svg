@@ -6,10 +6,14 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Created by FontForge 20170104 at Thu Jun  1 00:33:02 2017
 =======
 Created by FontForge 20170104 at Thu Jun  1 09:20:39 2017
 >>>>>>> 7ef12fa... Add custom icons (#14)
+=======
+Created by FontForge 20170104 at Thu Jun  1 09:20:39 2017
+>>>>>>> master
  By Connor Eggleston
 Copyright (c) 2017, Connor Eggleston
 </metadata>
@@ -1821,7 +1825,10 @@ d="M9 -59v502h503v-502h-503zM5 -69h512h4v5v512v5h-4h-512h-5v-5v-512v-5h5zM166 19
     <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="530" 
 d="M530 448v9h-9h-512h-9v-9v-512v-9h9h512h9v9v512zM512 439v-494h-494v494h494z" />
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
     <glyph glyph-name="ion-shipt-credit" unicode="&#xf162;" horiz-adv-x="467" 
 d="M406 413c33 0 61 -28 61 -61v-318c0 -33 -26 -61 -61 -61h-345c-35 0 -61 28 -61 61v318c0 35 26 61 61 61h345zM442 36v312c0 23 -18 41 -41 41h-333c-23 0 -41 -18 -41 -41v-312c0 -23 18 -41 41 -41h333c23 0 41 18 41 41zM391 313c0 -6 -4 -10 -8 -12h-299
 c-4 0 -8 6 -8 12s4 12 8 12h299c4 0 8 -6 8 -12zM360 147c29 0 52 -22 52 -49s-23 -49 -52 -49c-16 0 -28 6 -38 16c-10 -10 -25 -16 -39 -16c-29 0 -52 22 -52 49s23 49 52 49c16 0 29 -6 39 -16c10 10 24 16 38 16z" />
@@ -1851,7 +1858,10 @@ c-2 -6 -4 -12 -4 -18v-312c0 -23 18 -41 41 -41h307c23 0 41 18 41 41z" />
     <glyph glyph-name="ion-shipt-help" unicode="&#xf168;" horiz-adv-x="442" 
 d="M221 409c123 0 221 -98 221 -219c0 -123 -98 -221 -221 -221s-221 100 -221 221s100 219 221 219zM221 2c104 0 189 84 189 188s-85 188 -189 188s-188 -84 -188 -188s84 -188 188 -188zM225 212c8 6 15 11 15 19s-7 14 -19 14s-23 -6 -31 -14l-20 22c12 14 33 25 53 25
 c31 0 51 -16 51 -39c0 -20 -12 -31 -24 -39c-8 -6 -17 -12 -17 -20c0 -4 3 -9 5 -11l-27 -10c-6 6 -8 13 -8 23c0 16 12 22 22 30zM223 145c10 0 21 -9 21 -21c0 -10 -9 -20 -21 -20c-10 0 -20 8 -20 20s8 21 20 21z" />
+<<<<<<< HEAD
 >>>>>>> 7ef12fa... Add custom icons (#14)
+=======
+>>>>>>> master
     <glyph glyph-name="ion-shipt-icon-add" unicode="&#xf152;" horiz-adv-x="495" 
 d="M17 217c0 128 103 231 231 231s231 -103 231 -231s-103 -231 -231 -231s-231 103 -231 231zM0 217c0 -137 111 -248 248 -248s247 111 247 248s-110 248 -247 248s-248 -111 -248 -248zM268 196h87h17v17v24v17h-17h-87v87v16h-16h-25h-16v-16v-87h-87h-17v-17v-24v-17
 h17h87v-87v-16h16h25h16v16v87z" />

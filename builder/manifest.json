@@ -1,9 +1,13 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "build_hash": "6624491f54ebd7d3f96a92fc24fb8d6d",
 =======
   "build_hash": "9e2ff894f9fb8812d125b53d8c6d2455",
 >>>>>>> 7ef12fa... Add custom icons (#14)
+=======
+  "build_hash": "9e2ff894f9fb8812d125b53d8c6d2455",
+>>>>>>> master
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2498,7 +2502,10 @@
     },
     {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> master
       "code": "0xf162",
       "name": "shipt-credit"
     },
@@ -2531,7 +2538,10 @@
       "name": "shipt-help"
     },
     {
+<<<<<<< HEAD
 >>>>>>> 7ef12fa... Add custom icons (#14)
+=======
+>>>>>>> master
       "code": "0xf152",
       "name": "shipt-icon-add"
     },

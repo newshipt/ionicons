@@ -5,7 +5,7 @@
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Thu Jun  1 13:35:08 2017
+Created by FontForge 20170104 at Thu Jun  1 13:42:47 2017
  By Connor Eggleston
 Copyright (c) 2017, Connor Eggleston
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2017, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -73 530 465"
+    bbox="-0.54049 -73 530 574.5"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1789,6 +1789,10 @@ d="M3 374h50c2 0 4 -2 4 -4s-2 -4 -4 -4h-45v-45c0 -2 -2 -4 -4 -4s-4 2 -4 4v49c0 2
 c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM118 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM147 333c2 0 5 -2 5 -4v-147c0 -2 -3 -4 -5 -4s-4 2 -4 4v147c0 2 2 4 4 4zM184 333c2 0 4 -2 4 -4v-147c0 -2 -2 -4 -4 -4
 s-4 2 -4 4v147c0 2 2 4 4 4zM212 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM249 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-4 2 -4 4v147c0 2 1 4 3 4zM278 333c2 0 5 -2 5 -4v-147c0 -2 -2 -4 -4 -4s-5 2 -5 4v147c0 2 2 4 4 4zM315 333
 c2 0 4 -2 4 -4v-172c0 -2 -2 -4 -4 -4s-4 2 -4 4v172c0 2 2 4 4 4zM4 170c2 0 4 -3 4 -5v-45h45c2 0 4 -2 4 -4s-2 -4 -4 -4h-49c-2 0 -4 2 -4 4v49c0 2 2 5 4 5zM356 170c2 0 4 -3 4 -5v-49c0 -2 -2 -4 -4 -4h-49c-2 0 -4 2 -4 4s2 4 4 4h45v45c0 2 1 4 3 4z" />
+    <glyph glyph-name="ion-shipt-camera" unicode="&#xf15e;" horiz-adv-x="440" 
+d="M0 301c0 29 22 51 49 51h72l4 8c6 29 32 49 63 49h64c31 0 57 -20 63 -49l2 -8h72c29 0 51 -22 51 -51v-275c0 -29 -24 -53 -53 -53h-334c-29 0 -53 24 -53 53v275zM131 325h-78c-16 0 -28 -13 -28 -29v-266c0 -16 12 -31 30 -31h328c16 0 31 15 31 31v271
+c0 16 -15 24 -31 24h-76c-4 0 -8 4 -8 10l-4 15c-6 18 -23 32 -43 32h-64c-20 0 -39 -12 -43 -32l-4 -17s0 -8 -10 -8zM131 329zM221 69c-49 0 -90 41 -92 92c0 51 41 92 92 92s92 -41 92 -92s-41 -92 -92 -92zM221 227c-37 0 -65 -31 -65 -66c0 -37 30 -65 65 -65
+s66 28 66 65c0 35 -29 66 -66 66zM221 231zM252 532c-10 10 -10 25 0 35s25 10 35 0s10 -25 0 -35s-25 -10 -35 0z" />
     <glyph glyph-name="ion-shipt-checkbox-selected" unicode="&#xf13c;" horiz-adv-x="521" 
 d="M9 -59v502h503v-502h-503zM5 -69h512h4v5v512v5h-4h-512h-5v-5v-512v-5h5zM166 192l47 -47l143 132l28 -28l-171 -161l-76 76z" />
     <glyph glyph-name="ion-shipt-checkbox-unselected" unicode="&#xf145;" horiz-adv-x="530" 

@@ -14,41 +14,6 @@ $ionicon-var-shipt-radio-selected: "\f157";
 $ionicon-var-shipt-radio-unselected: "\f158";
 $ionicon-var-shipt-add-note: "\f159";
 $ionicon-var-shipt-address: "\f15a";
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
-$ionicon-var-shipt-curbside: "\f15b";
-$ionicon-var-shipt-autopilot: "\f15c";
-$ionicon-var-shipt-barcode: "\f15d";
-$ionicon-var-shipt-buy-again: "\f15e";
-$ionicon-var-shipt-camera: "\f15f";
-$ionicon-var-shipt-cart: "\f160";
-$ionicon-var-shipt-category: "\f161";
-$ionicon-var-shipt-date: "\f163";
-$ionicon-var-shipt-delivery: "\f165";
-$ionicon-var-shipt-delivery-instructions: "\f164";
-$ionicon-var-shipt-edit: "\f166";
-$ionicon-var-shipt-email: "\f167";
-$ionicon-var-shipt-help: "\f168";
-$ionicon-var-shipt-image: "\f169";
-$ionicon-var-shipt-info: "\f16a";
-$ionicon-var-shipt-invite: "\f16b";
-$ionicon-var-shipt-location: "\f16c";
-$ionicon-var-shipt-orders: "\f16d";
-$ionicon-var-shipt-phone: "\f16e";
-$ionicon-var-shipt-product-note: "\f16f";
-$ionicon-var-shipt-profile: "\f170";
-$ionicon-var-shipt-rewards: "\f171";
-$ionicon-var-shipt-sale: "\f172";
-$ionicon-var-shipt-search: "\f173";
-$ionicon-var-shipt-time: "\f174";
-$ionicon-var-shipt-credit: "\f162";
-<<<<<<< HEAD
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
->>>>>>> master
 
 // Content Mapping
 // ===============================================
@@ -104,119 +69,6 @@ $ionicon-var-shipt-credit: "\f162";
   content: $ionicon-var-shipt-address;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
-.ion-shipt-curbside:before {
-  content: $ionicon-var-shipt-curbside;
-}
-
-.ion-shipt-autopilot:before {
-  content: $ionicon-var-shipt-autopilot;
-}
-
-.ion-shipt-barcode:before {
-  content: $ionicon-var-shipt-barcode;
-}
-
-.ion-shipt-buy-again:before {
-  content: $ionicon-var-shipt-buy-again;
-}
-
-.ion-shipt-camera:before {
-  content: $ionicon-var-shipt-camera;
-}
-
-.ion-shipt-cart:before {
-  content: $ionicon-var-shipt-cart;
-}
-
-.ion-shipt-category:before {
-  content: $ionicon-var-shipt-category;
-}
-
-.ion-shipt-date:before {
-  content: $ionicon-var-shipt-date;
-}
-
-.ion-shipt-delivery:before {
-  content: $ionicon-var-shipt-delivery;
-}
-
-.ion-shipt-delivery-instructions:before {
-  content: $ionicon-var-shipt-delivery-instructions;
-}
-
-.ion-shipt-edit:before {
-  content: $ionicon-var-shipt-edit;
-}
-
-.ion-shipt-email:before {
-  content: $ionicon-var-shipt-email;
-}
-
-.ion-shipt-help:before {
-  content: $ionicon-var-shipt-help;
-}
-
-.ion-shipt-image:before {
-  content: $ionicon-var-shipt-image;
-}
-
-.ion-shipt-info:before {
-  content: $ionicon-var-shipt-info;
-}
-
-.ion-shipt-invite:before {
-  content: $ionicon-var-shipt-invite;
-}
-
-.ion-shipt-location:before {
-  content: $ionicon-var-shipt-location;
-}
-
-.ion-shipt-orders:before {
-  content: $ionicon-var-shipt-orders;
-}
-
-.ion-shipt-phone:before {
-  content: $ionicon-var-shipt-phone;
-}
-
-.ion-shipt-product-note:before {
-  content: $ionicon-var-shipt-product-note;
-}
-
-.ion-shipt-profile:before {
-  content: $ionicon-var-shipt-profile;
-}
-
-.ion-shipt-rewards:before {
-  content: $ionicon-var-shipt-rewards;
-}
-
-.ion-shipt-sale:before {
-  content: $ionicon-var-shipt-sale;
-}
-
-.ion-shipt-search:before {
-  content: $ionicon-var-shipt-search;
-}
-
-.ion-shipt-time:before {
-  content: $ionicon-var-shipt-time;
-}
-
-.ion-shipt-credit:before {
-  content: $ionicon-var-shipt-credit;
-}
-
-<<<<<<< HEAD
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
->>>>>>> master
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
@@ -231,43 +83,7 @@ $ionicon-var-shipt-credit: "\f162";
 .#{$ionicons-prefix}shipt-radio-selected:before,
 .#{$ionicons-prefix}shipt-radio-unselected:before,
 .#{$ionicons-prefix}shipt-add-note:before,
-<<<<<<< HEAD
-<<<<<<< HEAD
 .#{$ionicons-prefix}shipt-address:before
-=======
-=======
->>>>>>> master
-.#{$ionicons-prefix}shipt-address:before,
-.#{$ionicons-prefix}shipt-curbside:before,
-.#{$ionicons-prefix}shipt-autopilot:before,
-.#{$ionicons-prefix}shipt-barcode:before,
-.#{$ionicons-prefix}shipt-buy-again:before,
-.#{$ionicons-prefix}shipt-camera:before,
-.#{$ionicons-prefix}shipt-cart:before,
-.#{$ionicons-prefix}shipt-category:before,
-.#{$ionicons-prefix}shipt-date:before,
-.#{$ionicons-prefix}shipt-delivery:before,
-.#{$ionicons-prefix}shipt-delivery-instructions:before,
-.#{$ionicons-prefix}shipt-edit:before,
-.#{$ionicons-prefix}shipt-email:before,
-.#{$ionicons-prefix}shipt-help:before,
-.#{$ionicons-prefix}shipt-image:before,
-.#{$ionicons-prefix}shipt-info:before,
-.#{$ionicons-prefix}shipt-invite:before,
-.#{$ionicons-prefix}shipt-location:before,
-.#{$ionicons-prefix}shipt-orders:before,
-.#{$ionicons-prefix}shipt-phone:before,
-.#{$ionicons-prefix}shipt-product-note:before,
-.#{$ionicons-prefix}shipt-profile:before,
-.#{$ionicons-prefix}shipt-rewards:before,
-.#{$ionicons-prefix}shipt-sale:before,
-.#{$ionicons-prefix}shipt-search:before,
-.#{$ionicons-prefix}shipt-time:before,
-.#{$ionicons-prefix}shipt-credit:before
-<<<<<<< HEAD
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
->>>>>>> master
 {
   @extend .ion;
 }
@@ -286,43 +102,7 @@ $ionicon-var-shipt-credit: "\f162";
 .ion-shipt-radio-selected,
 .ion-shipt-radio-unselected,
 .ion-shipt-add-note,
-<<<<<<< HEAD
-<<<<<<< HEAD
 .ion-shipt-address {
-=======
-=======
->>>>>>> master
-.ion-shipt-address,
-.ion-shipt-curbside,
-.ion-shipt-autopilot,
-.ion-shipt-barcode,
-.ion-shipt-buy-again,
-.ion-shipt-camera,
-.ion-shipt-cart,
-.ion-shipt-category,
-.ion-shipt-date,
-.ion-shipt-delivery,
-.ion-shipt-delivery-instructions,
-.ion-shipt-edit,
-.ion-shipt-email,
-.ion-shipt-help,
-.ion-shipt-image,
-.ion-shipt-info,
-.ion-shipt-invite,
-.ion-shipt-location,
-.ion-shipt-orders,
-.ion-shipt-phone,
-.ion-shipt-product-note,
-.ion-shipt-profile,
-.ion-shipt-rewards,
-.ion-shipt-sale,
-.ion-shipt-search,
-.ion-shipt-time,
-.ion-shipt-credit {
-<<<<<<< HEAD
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
->>>>>>> master
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

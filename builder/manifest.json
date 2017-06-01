@@ -1,13 +1,5 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "build_hash": "6624491f54ebd7d3f96a92fc24fb8d6d",
-=======
-  "build_hash": "9e2ff894f9fb8812d125b53d8c6d2455",
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
-  "build_hash": "9e2ff894f9fb8812d125b53d8c6d2455",
->>>>>>> master
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2461,36 +2453,12 @@
       "name": "shipt-address"
     },
     {
-      "code": "0xf15c",
-      "name": "shipt-autopilot"
-    },
-    {
-      "code": "0xf15d",
-      "name": "shipt-barcode"
-    },
-    {
       "code": "0xf13b",
       "name": "shipt-barcode-scanner"
     },
     {
       "code": "0xf138",
       "name": "shipt-beer"
-    },
-    {
-      "code": "0xf15e",
-      "name": "shipt-buy-again"
-    },
-    {
-      "code": "0xf15f",
-      "name": "shipt-camera"
-    },
-    {
-      "code": "0xf160",
-      "name": "shipt-cart"
-    },
-    {
-      "code": "0xf161",
-      "name": "shipt-category"
     },
     {
       "code": "0xf13c",
@@ -2501,47 +2469,6 @@
       "name": "shipt-checkbox-unselected"
     },
     {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
-      "code": "0xf162",
-      "name": "shipt-credit"
-    },
-    {
-      "code": "0xf15b",
-      "name": "shipt-curbside"
-    },
-    {
-      "code": "0xf163",
-      "name": "shipt-date"
-    },
-    {
-      "code": "0xf165",
-      "name": "shipt-delivery"
-    },
-    {
-      "code": "0xf164",
-      "name": "shipt-delivery-instructions"
-    },
-    {
-      "code": "0xf166",
-      "name": "shipt-edit"
-    },
-    {
-      "code": "0xf167",
-      "name": "shipt-email"
-    },
-    {
-      "code": "0xf168",
-      "name": "shipt-help"
-    },
-    {
-<<<<<<< HEAD
->>>>>>> 7ef12fa... Add custom icons (#14)
-=======
->>>>>>> master
       "code": "0xf152",
       "name": "shipt-icon-add"
     },
@@ -2558,40 +2485,8 @@
       "name": "shipt-icon-remove"
     },
     {
-      "code": "0xf169",
-      "name": "shipt-image"
-    },
-    {
-      "code": "0xf16a",
-      "name": "shipt-info"
-    },
-    {
-      "code": "0xf16b",
-      "name": "shipt-invite"
-    },
-    {
       "code": "0xf14c",
       "name": "shipt-list"
-    },
-    {
-      "code": "0xf16c",
-      "name": "shipt-location"
-    },
-    {
-      "code": "0xf16d",
-      "name": "shipt-orders"
-    },
-    {
-      "code": "0xf16e",
-      "name": "shipt-phone"
-    },
-    {
-      "code": "0xf16f",
-      "name": "shipt-product-note"
-    },
-    {
-      "code": "0xf170",
-      "name": "shipt-profile"
     },
     {
       "code": "0xf157",
@@ -2602,24 +2497,8 @@
       "name": "shipt-radio-unselected"
     },
     {
-      "code": "0xf171",
-      "name": "shipt-rewards"
-    },
-    {
-      "code": "0xf172",
-      "name": "shipt-sale"
-    },
-    {
       "code": "0xf156",
       "name": "shipt-scanner-small"
-    },
-    {
-      "code": "0xf173",
-      "name": "shipt-search"
-    },
-    {
-      "code": "0xf174",
-      "name": "shipt-time"
     },
     {
       "code": "0xf146",

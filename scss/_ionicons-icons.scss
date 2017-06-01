@@ -613,44 +613,19 @@
 .#{$ionicons-prefix}settings:before,
 .#{$ionicons-prefix}share:before,
 .#{$ionicons-prefix}shipt-add-note:before,
-.#{$ionicons-prefix}shipt-address:before,
 .#{$ionicons-prefix}shipt-autopilot:before,
-.#{$ionicons-prefix}shipt-barcode:before,
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
-.#{$ionicons-prefix}shipt-buy-again:before,
-.#{$ionicons-prefix}shipt-camera:before,
-.#{$ionicons-prefix}shipt-cart:before,
-.#{$ionicons-prefix}shipt-category:before,
 .#{$ionicons-prefix}shipt-checkbox-selected:before,
 .#{$ionicons-prefix}shipt-checkbox-unselected:before,
-.#{$ionicons-prefix}shipt-credit:before,
 .#{$ionicons-prefix}shipt-curbside:before,
-.#{$ionicons-prefix}shipt-date:before,
-.#{$ionicons-prefix}shipt-delivery:before,
-.#{$ionicons-prefix}shipt-delivery-instructions:before,
-.#{$ionicons-prefix}shipt-edit:before,
-.#{$ionicons-prefix}shipt-email:before,
-.#{$ionicons-prefix}shipt-help:before,
 .#{$ionicons-prefix}shipt-icon-add:before,
 .#{$ionicons-prefix}shipt-icon-close:before,
 .#{$ionicons-prefix}shipt-icon-filled-checkmark:before,
 .#{$ionicons-prefix}shipt-icon-remove:before,
-.#{$ionicons-prefix}shipt-image:before,
-.#{$ionicons-prefix}shipt-info:before,
-.#{$ionicons-prefix}shipt-invite:before,
 .#{$ionicons-prefix}shipt-list:before,
-.#{$ionicons-prefix}shipt-location:before,
-.#{$ionicons-prefix}shipt-orders:before,
-.#{$ionicons-prefix}shipt-phone:before,
-.#{$ionicons-prefix}shipt-product-note:before,
-.#{$ionicons-prefix}shipt-profile:before,
 .#{$ionicons-prefix}shipt-radio-selected:before,
 .#{$ionicons-prefix}shipt-radio-unselected:before,
-.#{$ionicons-prefix}shipt-rewards:before,
-.#{$ionicons-prefix}shipt-sale:before,
 .#{$ionicons-prefix}shipt-scanner-small:before,
-.#{$ionicons-prefix}shipt-search:before,
-.#{$ionicons-prefix}shipt-time:before,
 .#{$ionicons-prefix}shuffle:before,
 .#{$ionicons-prefix}skip-backward:before,
 .#{$ionicons-prefix}skip-forward:before,
@@ -1388,44 +1363,19 @@
 .#{$ionicons-prefix}settings:before { content: $ionicon-var-settings; }
 .#{$ionicons-prefix}share:before { content: $ionicon-var-share; }
 .#{$ionicons-prefix}shipt-add-note:before { content: $ionicon-var-shipt-add-note; }
-.#{$ionicons-prefix}shipt-address:before { content: $ionicon-var-shipt-address; }
 .#{$ionicons-prefix}shipt-autopilot:before { content: $ionicon-var-shipt-autopilot; }
-.#{$ionicons-prefix}shipt-barcode:before { content: $ionicon-var-shipt-barcode; }
 .#{$ionicons-prefix}shipt-barcode-scanner:before { content: $ionicon-var-shipt-barcode-scanner; }
-.#{$ionicons-prefix}shipt-buy-again:before { content: $ionicon-var-shipt-buy-again; }
-.#{$ionicons-prefix}shipt-camera:before { content: $ionicon-var-shipt-camera; }
-.#{$ionicons-prefix}shipt-cart:before { content: $ionicon-var-shipt-cart; }
-.#{$ionicons-prefix}shipt-category:before { content: $ionicon-var-shipt-category; }
 .#{$ionicons-prefix}shipt-checkbox-selected:before { content: $ionicon-var-shipt-checkbox-selected; }
 .#{$ionicons-prefix}shipt-checkbox-unselected:before { content: $ionicon-var-shipt-checkbox-unselected; }
-.#{$ionicons-prefix}shipt-credit:before { content: $ionicon-var-shipt-credit; }
 .#{$ionicons-prefix}shipt-curbside:before { content: $ionicon-var-shipt-curbside; }
-.#{$ionicons-prefix}shipt-date:before { content: $ionicon-var-shipt-date; }
-.#{$ionicons-prefix}shipt-delivery:before { content: $ionicon-var-shipt-delivery; }
-.#{$ionicons-prefix}shipt-delivery-instructions:before { content: $ionicon-var-shipt-delivery-instructions; }
-.#{$ionicons-prefix}shipt-edit:before { content: $ionicon-var-shipt-edit; }
-.#{$ionicons-prefix}shipt-email:before { content: $ionicon-var-shipt-email; }
-.#{$ionicons-prefix}shipt-help:before { content: $ionicon-var-shipt-help; }
 .#{$ionicons-prefix}shipt-icon-add:before { content: $ionicon-var-shipt-icon-add; }
 .#{$ionicons-prefix}shipt-icon-close:before { content: $ionicon-var-shipt-icon-close; }
 .#{$ionicons-prefix}shipt-icon-filled-checkmark:before { content: $ionicon-var-shipt-icon-filled-checkmark; }
 .#{$ionicons-prefix}shipt-icon-remove:before { content: $ionicon-var-shipt-icon-remove; }
-.#{$ionicons-prefix}shipt-image:before { content: $ionicon-var-shipt-image; }
-.#{$ionicons-prefix}shipt-info:before { content: $ionicon-var-shipt-info; }
-.#{$ionicons-prefix}shipt-invite:before { content: $ionicon-var-shipt-invite; }
 .#{$ionicons-prefix}shipt-list:before { content: $ionicon-var-shipt-list; }
-.#{$ionicons-prefix}shipt-location:before { content: $ionicon-var-shipt-location; }
-.#{$ionicons-prefix}shipt-orders:before { content: $ionicon-var-shipt-orders; }
-.#{$ionicons-prefix}shipt-phone:before { content: $ionicon-var-shipt-phone; }
-.#{$ionicons-prefix}shipt-product-note:before { content: $ionicon-var-shipt-product-note; }
-.#{$ionicons-prefix}shipt-profile:before { content: $ionicon-var-shipt-profile; }
 .#{$ionicons-prefix}shipt-radio-selected:before { content: $ionicon-var-shipt-radio-selected; }
 .#{$ionicons-prefix}shipt-radio-unselected:before { content: $ionicon-var-shipt-radio-unselected; }
-.#{$ionicons-prefix}shipt-rewards:before { content: $ionicon-var-shipt-rewards; }
-.#{$ionicons-prefix}shipt-sale:before { content: $ionicon-var-shipt-sale; }
 .#{$ionicons-prefix}shipt-scanner-small:before { content: $ionicon-var-shipt-scanner-small; }
-.#{$ionicons-prefix}shipt-search:before { content: $ionicon-var-shipt-search; }
-.#{$ionicons-prefix}shipt-time:before { content: $ionicon-var-shipt-time; }
 .#{$ionicons-prefix}shuffle:before { content: $ionicon-var-shuffle; }
 .#{$ionicons-prefix}skip-backward:before { content: $ionicon-var-skip-backward; }
 .#{$ionicons-prefix}skip-forward:before { content: $ionicon-var-skip-forward; }

@@ -21,11 +21,20 @@ We intend for this icon pack to be used with [Ionic](http://ionicframework.com/)
 Or install with [component](https://github.com/componentjs/component):
 
     $ component install driftyco/ionicons
-    
+
 Or perhaps you're known to use [bower](http://bower.io/)?
-   
+
     $ bower install ionicons
 
+# NPM Publishing
+
+1. get a npm account with our team
+2. go to the project folder
+3. `npm adduser` or `npm login` (if you're not already logged in)
+4. `npm version <version>` give the package a new version number
+5. `npm publish`
+6. :boom: new package available!
+7. install in your project via `npm i --save @shipt/ionicons@latest`
 
 ## HTML Example
 

@@ -1,0 +1,30 @@
+{
+  "name": "@shipt/ionicons",
+  "version": "1.0.0",
+  "description": "Shipt's Ionicons implementation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newshipt/ionicons.git"
+  },
+  "keywords": [
+    "shipt",
+    "ionic",
+    "ion",
+    "icons",
+    "ionicons",
+    "font",
+    "css"
+  ],
+  "author": "Alan Kenyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newshipt/ionicons/issues"
+  },
+  "homepage": "https://github.com/newshipt/ionicons#readme"
+}

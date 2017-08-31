@@ -1,5 +1,5 @@
 {
-  "build_hash": "6624491f54ebd7d3f96a92fc24fb8d6d",
+  "build_hash": "a1496fc7d6ab101e6ad6a7425eff8337",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2497,8 +2497,16 @@
       "name": "shipt-radio-unselected"
     },
     {
+      "code": "0xf15c",
+      "name": "shipt-sale"
+    },
+    {
       "code": "0xf156",
       "name": "shipt-scanner-small"
+    },
+    {
+      "code": "0xf15d",
+      "name": "shipt-time"
     },
     {
       "code": "0xf221",

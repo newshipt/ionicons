@@ -625,7 +625,9 @@
 .#{$ionicons-prefix}shipt-list:before,
 .#{$ionicons-prefix}shipt-radio-selected:before,
 .#{$ionicons-prefix}shipt-radio-unselected:before,
+.#{$ionicons-prefix}shipt-sale:before,
 .#{$ionicons-prefix}shipt-scanner-small:before,
+.#{$ionicons-prefix}shipt-time:before,
 .#{$ionicons-prefix}shuffle:before,
 .#{$ionicons-prefix}skip-backward:before,
 .#{$ionicons-prefix}skip-forward:before,
@@ -1375,7 +1377,9 @@
 .#{$ionicons-prefix}shipt-list:before { content: $ionicon-var-shipt-list; }
 .#{$ionicons-prefix}shipt-radio-selected:before { content: $ionicon-var-shipt-radio-selected; }
 .#{$ionicons-prefix}shipt-radio-unselected:before { content: $ionicon-var-shipt-radio-unselected; }
+.#{$ionicons-prefix}shipt-sale:before { content: $ionicon-var-shipt-sale; }
 .#{$ionicons-prefix}shipt-scanner-small:before { content: $ionicon-var-shipt-scanner-small; }
+.#{$ionicons-prefix}shipt-time:before { content: $ionicon-var-shipt-time; }
 .#{$ionicons-prefix}shuffle:before { content: $ionicon-var-shuffle; }
 .#{$ionicons-prefix}skip-backward:before { content: $ionicon-var-skip-backward; }
 .#{$ionicons-prefix}skip-forward:before { content: $ionicon-var-skip-forward; }

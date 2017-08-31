@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-6-1: Created with FontForge (http://fontforge.org)
+2017-8-31: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Thu Jun  1 00:49:44 2017
+Created by FontForge 20170104 at Thu Aug 31 11:44:34 2017
  By Connor Eggleston
 Copyright (c) 2017, Connor Eggleston
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2017, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -73 530 465"
+    bbox="-0.54049 -96 576 480"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1818,10 +1818,17 @@ c-3 0 -4 2 -4 5s1 5 4 5h41c3 0 4 -2 4 -5s-1 -5 -4 -5zM160 361h-108c-3 0 -4 2 -4 
 d="M0 192c0 141 115 256 256 256s256 -115 256 -256s-115 -256 -256 -256s-256 115 -256 256zM138 192c0 -65 53 -118 118 -118s118 53 118 118s-53 118 -118 118s-118 -53 -118 -118z" />
     <glyph glyph-name="ion-shipt-radio-unselected" unicode="&#xf158;" horiz-adv-x="492" 
 d="M20 192c0 125 101 226 226 226s227 -101 227 -226s-102 -226 -227 -226s-226 101 -226 226zM0 192c0 -136 110 -246 246 -246s246 110 246 246s-110 246 -246 246s-246 -110 -246 -246z" />
+    <glyph glyph-name="ion-shipt-sale" unicode="&#xf15c;" horiz-adv-x="512" 
+d="M0 -64h512v512h-512v-512zM487 204l-223 226l-4 4h-6h-136h-68c-22 0 -36 -18 -36 -36v-204v-6l4 -4l226 -223c13 -13 33 -13 46 0l196 194c16 13 14 36 1 49zM467 184c4 -4 1 -7 1 -7v0l-1 -1l-197 -195c-2 -2 -3 -2 -3 -2s17 -18 -3 2l-221 219v198c0 4 2 7 7 7h68h130
+zM157 292c-12 -12 -30 -12 -42 0s-12 30 0 42s30 12 42 0s12 -30 0 -42zM177 272c23 23 23 59 0 82s-59 23 -82 0s-23 -59 0 -82s59 -23 82 0zM157 292c-12 -12 -30 -12 -42 0s-12 30 0 42s30 12 42 0s12 -30 0 -42zM177 272c23 23 23 59 0 82s-59 23 -82 0s-23 -59 0 -82
+s59 -23 82 0z" />
     <glyph glyph-name="ion-shipt-scanner-small" unicode="&#xf156;" horiz-adv-x="496" 
 d="M9 392c0 37 1 37 38 37h403c37 0 37 0 37 -37v-212c0 -37 0 -37 -37 -37h-403c-37 0 -38 0 -38 37v212zM0 392v-212c0 -39 8 -47 47 -47h403c39 0 46 8 46 47v212c0 39 -7 47 -46 47h-403c-39 0 -47 -8 -47 -47zM19 392c0 35 -7 28 28 28h403c35 0 28 7 28 -28v-212
 c0 -35 7 -28 -28 -28h-403c-35 0 -28 -7 -28 28v212zM9 392c0 37 1 37 38 37h403c37 0 37 0 37 -37v-212c0 -37 0 -37 -37 -37h-403c-37 0 -38 0 -38 37v212zM168 356zM186 356zM214 356zM251 356zM316 356zM270 356zM288 214h10v142h-10zM140 236zM344 236zM140 383z
 M354 383v-49h-10v40h-42v9z" />
+    <glyph glyph-name="ion-shipt-time" unicode="&#xf15d;" horiz-adv-x="576" 
+d="M0 480h576v-576h-576v576zM288 448c143 0 256 -115 256 -257c0 -140 -113 -255 -256 -255c-140 0 -256 113 -256 255s113 257 256 257zM288 -30c122 0 224 99 224 223s-102 223 -224 223c-125 0 -224 -101 -224 -223c0 -124 102 -223 224 -223zM413 173c5 0 9 -2 9 -9
+s-4 -14 -9 -14h-136c-2 0 -3 1 -5 3v0v0c-2 0 -2 2 -2 4v171c0 5 6 9 13 9s14 -4 14 -9v-155h116z" />
     <glyph glyph-name="ion-shuffle" unicode="&#xf221;" 
 d="M338 267c-52 0 -83 -43 -120 -92c-41 -55 -88 -120 -171 -120h-47v63h47c52 0 84 47 121 96c41 55 87 116 170 116h29v54l81 -81l-81 -84v48h-29zM121 230c-21 21 -42 35 -74 36c-34 1 -47 0 -47 0v63h47c48 0 83 -20 113 -48c-10 -12 -19 -24 -28 -36
 c-4 -5 -7 -10 -11 -15zM367 118v47l81 -84l-81 -81v54h-29c-50 0 -87 23 -117 53c12 14 22 28 32 41c2 3 5 6 7 9c22 -24 46 -39 78 -39h29z" />

@@ -1545,6 +1545,8 @@
 
 .ion-shipt-time:before { content: ""; }
 
-.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small, .ion-shipt-radio-selected, .ion-shipt-radio-unselected, .ion-shipt-add-note, .ion-shipt-address, .ion-shipt-curbside, .ion-shipt-sale, .ion-shipt-time { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-shipt-time:before { content: ""; }
+
+.ion-shipt-barcode-scanner, .ion-shipt-checkbox-selected, .ion-shipt-checkbox-unselected, .ion-shipt-list, .ion-shipt-icon-add, .ion-shipt-icon-close, .ion-shipt-icon-filled-checkmark, .ion-shipt-icon-remove, .ion-shipt-scanner-small, .ion-shipt-radio-selected, .ion-shipt-radio-unselected, .ion-shipt-add-note, .ion-shipt-address, .ion-shipt-curbside, .ion-shipt-sale, .ion-shipt-time, .ion-shipt-orders { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 /*# sourceMappingURL=ionicons.css.map */

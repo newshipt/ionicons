@@ -17,6 +17,7 @@ $ionicon-var-shipt-address: "\f15a";
 $ionicon-var-shipt-curbside: "\f15b";
 $ionicon-var-shipt-sale: "\f15c";
 $ionicon-var-shipt-time: "\f15d";
+$ionicon-var-shipt-orders: "\f15e";
 
 // Content Mapping
 // ===============================================
@@ -84,6 +85,10 @@ $ionicon-var-shipt-time: "\f15d";
   content: $ionicon-var-shipt-time;
 }
 
+.ion-shipt-time:before {
+  content: $ionicon-var-shipt-orders;
+}
+
 
 // Style Inheritance
 // ===============================================
@@ -102,7 +107,8 @@ $ionicon-var-shipt-time: "\f15d";
 .#{$ionicons-prefix}shipt-address:before,
 .#{$ionicons-prefix}shipt-curbside:before,
 .#{$ionicons-prefix}shipt-sale:before,
-.#{$ionicons-prefix}shipt-time:before
+.#{$ionicons-prefix}shipt-time:before,
+.#{$ionicons-prefix}shipt-orders:before
 {
   @extend .ion;
 }
@@ -124,7 +130,8 @@ $ionicon-var-shipt-time: "\f15d";
 .ion-shipt-address,
 .ion-shipt-curbside,
 .ion-shipt-sale,
-.ion-shipt-time {
+.ion-shipt-time,
+.ion-shipt-orders {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

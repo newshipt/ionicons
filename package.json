@@ -1,6 +1,6 @@
 {
   "name": "@shipt/ionicons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shipt's Ionicons implementation",
   "main": "index.js",
   "dependencies": {},

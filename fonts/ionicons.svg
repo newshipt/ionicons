@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-9-6: Created with FontForge (http://fontforge.org)
+2017-9-7: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170806 at Wed Sep  6 15:22:04 2017
+Created by FontForge 20170806 at Thu Sep  7 14:00:30 2017
  By Owen Sikes
 Copyright (c) 2017, Owen Sikes
 </metadata>
@@ -1814,9 +1814,9 @@ c0 16 15 28 33 28c17 0 31 -13 31 -29v-168v0v0v0v0c0 -1 -1 -1 -1 -2l-26 -65c-1 -2
 v129h-43v-131l5 7c1 1 2 2 4 2v0zM278 297h43v12c0 11 -10 19 -21 19c-12 0 -22 -8 -22 -18v-13zM147 113h-95c-3 0 -4 2 -4 5s1 5 4 5h95c3 0 5 -2 5 -5s-2 -5 -5 -5zM100 173h-48c-3 0 -4 2 -4 5s1 5 4 5h48c3 0 4 -2 4 -5s-1 -5 -4 -5zM114 197h-62c-3 0 -4 2 -4 5
 s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM65 235h-13c-3 0 -4 2 -4 5s1 4 4 4h13c3 0 5 -1 5 -4s-2 -5 -5 -5zM138 266h-86c-3 0 -4 2 -4 5s1 5 4 5h86c3 0 5 -2 5 -5s-2 -5 -5 -5zM114 306h-62c-3 0 -4 2 -4 5s1 5 4 5h62c3 0 5 -2 5 -5s-2 -5 -5 -5zM93 335h-41
 c-3 0 -4 2 -4 5s1 5 4 5h41c3 0 4 -2 4 -5s-1 -5 -4 -5zM160 361h-108c-3 0 -4 2 -4 5s1 5 4 5h108c3 0 5 -2 5 -5s-2 -5 -5 -5z" />
-    <glyph glyph-name="ion-shipt-orders" unicode="&#xf15e;" horiz-adv-x="512" 
-d="M0 448h512v-512h-512v512zM407 337c34 0 68 -26 62 -60l-59 -241c-9 -34 -26 -57 -60 -57h-188c-34 0 -49 17 -60 57l-59 241c-6 34 25 60 59 60h63v29c0 23 17 39 40 39h102c23 0 40 -16 40 -39v-29h60zM193 357v-23h131v23c0 17 -11 28 -28 28h-74
-c-17 0 -29 -11 -29 -28zM444 272c6 23 -20 39 -40 39h-296c-23 0 -46 -13 -40 -39l57 -234c11 -26 17 -37 40 -37h179c23 0 34 14 40 37z" />
+    <glyph glyph-name="ion-shipt-orders" unicode="&#xf15e;" horiz-adv-x="442" 
+d="M378 342c35 0 70 -27 64 -62l-62 -250c-8 -35 -26 -59 -61 -59h-195c-35 0 -49 18 -61 59l-62 250c-8 37 27 62 62 62h63v30c0 23 18 41 41 41h109c23 0 41 -18 41 -41v-30h61zM155 364v-22h135v22c0 16 -13 29 -29 29h-78c-16 0 -28 -13 -28 -29zM415 276
+c6 23 -18 41 -41 41h-307c-23 0 -47 -16 -41 -41l61 -242c10 -27 18 -39 41 -39h185c23 0 34 16 40 39z" />
     <glyph glyph-name="ion-shipt-radio-selected" unicode="&#xf157;" horiz-adv-x="512" 
 d="M0 192c0 141 115 256 256 256s256 -115 256 -256s-115 -256 -256 -256s-256 115 -256 256zM138 192c0 -65 53 -118 118 -118s118 53 118 118s-53 118 -118 118s-118 -53 -118 -118z" />
     <glyph glyph-name="ion-shipt-radio-unselected" unicode="&#xf158;" horiz-adv-x="492" 

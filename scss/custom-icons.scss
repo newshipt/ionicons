@@ -18,6 +18,8 @@ $ionicon-var-shipt-curbside: "\f15b";
 $ionicon-var-shipt-sale: "\f15c";
 $ionicon-var-shipt-time: "\f15d";
 $ionicon-var-shipt-orders: "\f15f";
+$ionicon-var-shipt-credit: "\f160";
+$ionicon-var-shipt-rewards: "\f161";
 
 // Content Mapping
 // ===============================================
@@ -85,8 +87,16 @@ $ionicon-var-shipt-orders: "\f15f";
   content: $ionicon-var-shipt-time;
 }
 
-.ion-shipt-time:before {
+.ion-shipt-orders:before {
   content: $ionicon-var-shipt-orders;
+}
+
+.ion-shipt-credit:before {
+  content: $ionicon-var-shipt-credit;
+}
+
+.ion-shipt-rewards:before {
+  content: $ionicon-var-shipt-rewards;
 }
 
 
@@ -108,7 +118,9 @@ $ionicon-var-shipt-orders: "\f15f";
 .#{$ionicons-prefix}shipt-curbside:before,
 .#{$ionicons-prefix}shipt-sale:before,
 .#{$ionicons-prefix}shipt-time:before,
-.#{$ionicons-prefix}shipt-orders:before
+.#{$ionicons-prefix}shipt-orders:before,
+.#{$ionicons-prefix}shipt-credit:before,
+.#{$ionicons-prefix}shipt-rewards:before
 {
   @extend .ion;
 }
@@ -131,7 +143,9 @@ $ionicon-var-shipt-orders: "\f15f";
 .ion-shipt-curbside,
 .ion-shipt-sale,
 .ion-shipt-time,
-.ion-shipt-orders {
+.ion-shipt-orders,
+.ion-shipt-credit,
+.ion-shipt-rewards {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

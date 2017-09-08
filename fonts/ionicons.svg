@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-9-7: Created with FontForge (http://fontforge.org)
+2017-9-8: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170806 at Thu Sep  7 15:04:01 2017
+Created by FontForge 20170806 at Fri Sep  8 15:02:18 2017
  By Owen Sikes
 Copyright (c) 2017, Owen Sikes
 </metadata>
@@ -710,12 +710,12 @@ c-20 1 -36 15 -46 39s-28 39 -41 41c-11 1 -21 -4 -31 -16c-3 -4 -6 -9 -10 -15c-14 
 d="M224 416c124 0 224 -100 224 -224c0 -13 -1 -25 -3 -37c-1 -6 -2 -12 -3 -17c-24 -98 -113 -170 -218 -170c-122 0 -221 98 -224 219v5c0 9 1 17 2 26c13 111 107 198 222 198zM431 168c1 8 1 16 1 24c0 28 -5 55 -16 81c-10 25 -26 47 -45 66s-41 35 -66 45
 c-26 11 -53 16 -81 16s-55 -5 -81 -16c-25 -10 -47 -26 -66 -45s-35 -41 -45 -66c-11 -26 -16 -53 -16 -81v0c14 -21 29 -34 29 -34h1v-1c1 -1 15 -16 36 -13c12 2 27 26 38 42c4 6 9 12 12 16c17 21 34 23 45 21c24 -3 45 -27 54 -50c7 -18 18 -28 32 -29c15 -1 31 9 43 29
 c1 2 3 4 4 7c9 17 24 44 52 44c31 0 52 -35 53 -36c3 -4 9 -12 16 -20z" />
-    <glyph glyph-name="ion-ios-arrow-back" unicode="&#xf3cf;" horiz-adv-x="192" 
-d="M192 320l-127 -128l127 -128l-32 -32l-160 160v0v0l160 160z" />
+    <glyph glyph-name="ion-ios-arrow-back" unicode="&#xf3cf;" horiz-adv-x="231" 
+d="M228 -5c4 -6 4 -14 0 -18s-14 -4 -18 0l-207 207c-4 4 -4 14 0 18l207 205c4 4 14 4 18 0s4 -14 0 -18l-196 -197z" />
     <glyph glyph-name="ion-ios-arrow-down" unicode="&#xf3d0;" horiz-adv-x="320" 
 d="M301 288l19 -21l-160 -171l-160 171l19 21l141 -150z" />
-    <glyph glyph-name="ion-ios-arrow-forward" unicode="&#xf3d1;" horiz-adv-x="192" 
-d="M0 320l32 32l160 -160v0v0l-160 -160l-32 32l127 128z" />
+    <glyph glyph-name="ion-ios-arrow-forward" unicode="&#xf3d1;" horiz-adv-x="229" 
+d="M3 389c-4 6 -4 14 0 18c4 6 15 6 19 0l204 -207c4 -4 4 -14 0 -18l-204 -205c-4 -4 -15 -4 -19 0s-4 14 0 18l197 197z" />
     <glyph glyph-name="ion-ios-arrow-left" unicode="&#xf3d2;" horiz-adv-x="192" 
 d="M192 333l-150 -141l150 -141l-21 -19l-171 160l171 160z" />
     <glyph glyph-name="ion-ios-arrow-right" unicode="&#xf3d3;" horiz-adv-x="192" 

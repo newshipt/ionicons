@@ -1,5 +1,5 @@
 {
-  "build_hash": "dbaa23667da6ce569351f4cf33b946ef",
+  "build_hash": "09d7fddb8daa3f83436d4ac9e8f1fb21",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2453,8 +2453,24 @@
       "name": "shipt-address"
     },
     {
+      "code": "0xf162",
+      "name": "shipt-barcode"
+    },
+    {
       "code": "0xf13b",
       "name": "shipt-barcode-scanner"
+    },
+    {
+      "code": "0xf163",
+      "name": "shipt-buy-again"
+    },
+    {
+      "code": "0xf164",
+      "name": "shipt-cart"
+    },
+    {
+      "code": "0xf165",
+      "name": "shipt-category"
     },
     {
       "code": "0xf13c",
@@ -2495,6 +2511,10 @@
     {
       "code": "0xf14c",
       "name": "shipt-list"
+    },
+    {
+      "code": "0xf166",
+      "name": "shipt-list-revised"
     },
     {
       "code": "0xf15f",

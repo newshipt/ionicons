@@ -25,6 +25,8 @@ $ionicon-var-shipt-buy-again: "\f163";
 $ionicon-var-shipt-cart: "\f164";
 $ionicon-var-shipt-category: "\f165";
 $ionicon-var-shipt-list-revised: "\f166";
+$ionicon-var-shipt-menu: "\f167";
+$ionicon-var-shipt-close: "\f168";
 
 // Content Mapping
 // ===============================================
@@ -124,6 +126,14 @@ $ionicon-var-shipt-list-revised: "\f166";
   content: $ionicon-var-shipt-list-revised;
 }
 
+.ion-shipt-shipt-menu:before {
+  content: $ionicon-var-shipt-menu;
+}
+
+.ion-shipt-close:before {
+  content: $ionicon-var-shipt-close;
+}
+
 
 
 // Style Inheritance
@@ -151,7 +161,9 @@ $ionicon-var-shipt-list-revised: "\f166";
 .#{$ionicons-prefix}shipt-buy-again:before,
 .#{$ionicons-prefix}shipt-cart:before,
 .#{$ionicons-prefix}shipt-category:before,
-.#{$ionicons-prefix}shipt-list-revised:before
+.#{$ionicons-prefix}shipt-list-revised:before,
+.#{$ionicons-prefix}shipt-menu:before,
+.#{$ionicons-prefix}shipt-close:before
 {
   @extend .ion;
 }
@@ -181,7 +193,9 @@ $ionicon-var-shipt-list-revised: "\f166";
 .ion-shipt-buy-again,
 .ion-shipt-cart,
 .ion-shipt-category,
-.ion-shipt-list-revised {
+.ion-shipt-list-revised,
+.ion-shipt-shipt-menu,
+.ion-shipt-shipt-close {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

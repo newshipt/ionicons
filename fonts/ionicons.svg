@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-10-11: Created with FontForge (http://fontforge.org)
+2017-10-27: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170806 at Wed Oct 11 19:37:14 2017
+Created by FontForge 20170806 at Fri Oct 27 09:54:40 2017
  By Owen Sikes
 Copyright (c) 2017, Owen Sikes
 </metadata>
@@ -712,6 +712,9 @@ v16h160v-16h-16v-127zM144 384v-16h48v16h-48zM144 336v-16h32v16h-32zM144 288v-16h
 d="M224 416c124 0 224 -100 224 -224s-100 -224 -224 -224s-224 100 -224 224s100 224 224 224zM360 56c36 36 56 85 56 136s-20 100 -56 136s-85 56 -136 56s-100 -20 -136 -56s-56 -85 -56 -136s20 -100 56 -136s85 -56 136 -56s100 20 136 56zM168 342l56 -86h-147
 c17 40 50 71 91 86zM381 160h-102l72 129c21 -27 33 -60 33 -97c0 -11 -1 -22 -3 -32zM328 314l-49 -90l-78 126c8 1 15 2 23 2c40 0 76 -14 104 -38zM67 224h102l-72 -129c-21 27 -33 60 -33 97c0 11 1 22 3 32zM280 42l-56 86h147c-17 -40 -50 -71 -91 -86zM120 70l49 90
 l78 -126c-8 -1 -15 -2 -23 -2c-40 0 -76 14 -104 38z" />
+    <glyph glyph-name="ion-shipt-gift" unicode="&#xf16b;" horiz-adv-x="503" 
+d="M22 -64v243h455v-243h-455zM271 326h232v-119h-9h-17h-455h-22v119h232c-7 5 -19 10 -29 14c-24 10 -50 22 -59 45c-5 12 -3 25 3 40c8 19 19 23 27 23c27 0 55 -48 77 -95c22 47 50 95 77 95c8 0 20 -4 28 -23c6 -15 8 -28 3 -40c-9 -23 -36 -35 -60 -45
+c-10 -4 -21 -9 -28 -14zM328 421c-7 0 -23 -18 -44 -59l6 3c19 8 41 17 46 30c2 5 0 11 -3 19c-2 6 -4 7 -5 7zM212 365c2 -1 5 -2 7 -3c-21 41 -38 59 -45 59c-1 0 -3 -1 -5 -7c-3 -8 -4 -14 -2 -19c5 -13 26 -22 45 -30z" />
     <glyph glyph-name="ion-social-yahoo-outline" unicode="&#xf24a;" horiz-adv-x="320" 
 d="M289 380c11 0 21 1 31 4l-128 -213v-171c-10 4 -21 4 -32 4s-22 0 -32 -4v171l-128 213c10 -4 21 -4 32 -4s22 0 32 4l96 -160l96 160c10 -4 22 -4 33 -4zM178 180l111 184h-1c-7 0 -15 0 -24 2l-90 -150l-14 -23l-14 23l-89 150c-9 -2 -17 -2 -25 -2h-1l111 -184l2 -4
 v-5v-151c6 1 11 0 16 0s11 1 16 0v151v5z" />

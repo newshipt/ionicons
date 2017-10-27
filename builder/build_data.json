@@ -1,5 +1,5 @@
 {
-  "build_hash": "76bf10455bb10bf48e73628e9292f0fd",
+  "build_hash": "3db5a2498ebdf7bbd52920a54d558ded",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2495,6 +2495,10 @@
     {
       "code": "0xf15e",
       "name": "shipt-filter"
+    },
+    {
+      "code": "0xf16b",
+      "name": "shipt-gift"
     },
     {
       "code": "0xf152",

@@ -29,6 +29,8 @@ $ionicon-var-shipt-menu: "\f167";
 $ionicon-var-shipt-close: "\f168";
 $ionicon-var-shipt-minus: "\f169";
 $ionicon-var-shipt-plus: "\f16a";
+$ionicon-var-shipt-gift: "\f16b";
+$ionicon-var-shipt-gift-white: "\f16c";
 
 // Content Mapping
 // ===============================================
@@ -144,6 +146,14 @@ $ionicon-var-shipt-plus: "\f16a";
   content: $ionicon-var-shipt-plus;
 }
 
+.ion-shipt-gift:before {
+    content: $ionicon-var-shipt-gift;
+}
+
+.ion-shipt-gift-white:before {
+    content: $ionicon-var-shipt-gift-white;
+}
+
 // Style Inheritance
 // ===============================================
 .#{$ionicons-prefix}shipt-barcode-scanner:before,
@@ -173,7 +183,9 @@ $ionicon-var-shipt-plus: "\f16a";
 .#{$ionicons-prefix}shipt-menu:before,
 .#{$ionicons-prefix}shipt-close:before,
 .#{$ionicons-prefix}shipt-minus:before,
-.#{$ionicons-prefix}shipt-plus:before
+.#{$ionicons-prefix}shipt-plus:before,
+.#{$ionicons-prefix}shipt-gift:before,
+.#{$ionicons-prefix}shipt-gift-white:before
 {
   @extend .ion;
 }
@@ -207,7 +219,9 @@ $ionicon-var-shipt-plus: "\f16a";
 .ion-shipt-menu,
 .ion-shipt-close,
 .ion-shipt-minus,
-.ion-shipt-plus {
+.ion-shipt-plus,
+.ion-shipt-gift,
+.ion-shipt-gift-white {
   display: inline-block;
   font-family: "Ionicons";
   speak: none;

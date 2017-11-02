@@ -624,6 +624,7 @@
 .#{$ionicons-prefix}shipt-close:before,
 .#{$ionicons-prefix}shipt-credit:before,
 .#{$ionicons-prefix}shipt-curbside:before,
+.#{$ionicons-prefix}shipt-favorites:before,
 .#{$ionicons-prefix}shipt-filter:before,
 .#{$ionicons-prefix}shipt-gift:before,
 .#{$ionicons-prefix}shipt-icon-add:before,
@@ -1390,6 +1391,7 @@
 .#{$ionicons-prefix}shipt-close:before { content: $ionicon-var-shipt-close; }
 .#{$ionicons-prefix}shipt-credit:before { content: $ionicon-var-shipt-credit; }
 .#{$ionicons-prefix}shipt-curbside:before { content: $ionicon-var-shipt-curbside; }
+.#{$ionicons-prefix}shipt-favorites:before { content: $ionicon-var-shipt-favorites; }
 .#{$ionicons-prefix}shipt-filter:before { content: $ionicon-var-shipt-filter; }
 .#{$ionicons-prefix}shipt-gift:before { content: $ionicon-var-shipt-gift; }
 .#{$ionicons-prefix}shipt-icon-add:before { content: $ionicon-var-shipt-icon-add; }

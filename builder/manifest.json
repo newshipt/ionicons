@@ -1,5 +1,5 @@
 {
-  "build_hash": "b07d5f799ad9c8fc635270bc77aa3741",
+  "build_hash": "57fcd3fba37d618a30416a3a7063fd18",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2495,6 +2495,10 @@
     {
       "code": "0xf15b",
       "name": "shipt-curbside"
+    },
+    {
+      "code": "0xf16d",
+      "name": "shipt-delivery"
     },
     {
       "code": "0xf16c",

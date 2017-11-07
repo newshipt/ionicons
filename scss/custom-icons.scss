@@ -30,6 +30,7 @@ $ionicon-var-shipt-close: "\f168";
 $ionicon-var-shipt-minus: "\f169";
 $ionicon-var-shipt-plus: "\f16a";
 $ionicon-var-shipt-gift: "\f16b";
+$ionicon-var-shipt-delivery: "\f16d";
 
 // Content Mapping
 // ===============================================
@@ -149,6 +150,11 @@ $ionicon-var-shipt-gift: "\f16b";
   content: $ionicon-var-shipt-gift;
 }
 
+.ion-shipt-delivery:before {
+  content: $ionicon-var-shipt-delivery;
+}
+
+
 
 // Style Inheritance
 // ===============================================
@@ -180,7 +186,8 @@ $ionicon-var-shipt-gift: "\f16b";
 .#{$ionicons-prefix}shipt-close:before,
 .#{$ionicons-prefix}shipt-minus:before,
 .#{$ionicons-prefix}shipt-plus:before,
-.#{$ionicons-prefix}shipt-gift:before
+.#{$ionicons-prefix}shipt-gift:before,
+.#{$ionicons-prefix}shipt-delivery:before
 {
   @extend .ion;
 }
@@ -215,7 +222,8 @@ $ionicon-var-shipt-gift: "\f16b";
 .ion-shipt-close,
 .ion-shipt-minus,
 .ion-shipt-plus,
-.ion-shipt-gift
+.ion-shipt-gift,
+.ion-shipt-delivery
  {
   display: inline-block;
   font-family: "Ionicons";

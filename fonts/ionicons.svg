@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-8-31: Created with FontForge (http://fontforge.org)
+2017-11-9: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Thu Aug 31 11:44:34 2017
+Created by FontForge 20170104 at Thu Nov  9 16:06:22 2017
  By Connor Eggleston
 Copyright (c) 2017, Connor Eggleston
 </metadata>
@@ -19,7 +19,7 @@ Copyright (c) 2017, Connor Eggleston
     panose-1="2 0 5 3 0 0 0 0 0 0"
     ascent="448"
     descent="-64"
-    bbox="-0.54049 -96 576 480"
+    bbox="-0.54049 -96 580.75 888.75"
     underline-thickness="25.6"
     underline-position="-51.2"
     unicode-range="U+F100-F4F7"
@@ -1797,6 +1797,11 @@ d="M137 149c-16 0 -16 -18 -16 -18v-158h-74c-6 0 -10 6 -10 12v211c0 2 -2 4 -4 6c-
 M39 296c-4 -6 0 -12 6 -12h352c6 0 11 8 9 12l-44 89c-2 2 -4 4 -8 4h-264c-6 0 -8 -4 -8 -4zM313 260h-82c4 -23 21 -39 41 -39s37 16 41 39zM209 260h-82c4 -23 21 -39 41 -39s37 16 41 39zM23 260c4 -23 20 -39 40 -39s37 16 41 39h-81zM381 6c0 8 2 190 2 190
 s-29 -4 -49 23c0 0 -6 6 -12 0c-8 -6 -23 -23 -48 -23s-43 17 -47 23c0 0 -6 6 -12 0c-8 -6 -20 -23 -47 -23c-29 0 -47 23 -47 23s-6 6 -12 0s-17 -23 -50 -23v-190s1 -9 9 -9h22l8 9v125s2 43 37 43h39s29 0 29 -43v-125s0 -9 8 -9h162s8 1 8 9zM379 221c20 0 37 16 41 39
 h-82c4 -23 21 -39 41 -39z" />
+    <glyph glyph-name="ion-shipt-delivery" unicode="&#xf15e;" horiz-adv-x="580" 
+d="M276 157c4 0 9 -4 9 -12c0 -6 -5 -12 -9 -12h-110c-4 0 -8 6 -8 12s4 12 8 12h110zM425 494c-13 13 -13 33 0 46s33 13 46 0s13 -33 0 -46s-33 -13 -46 0zM524 832c-13 13 -13 34 0 47s34 13 47 0s13 -34 0 -47s-34 -13 -47 0zM408 239c18 -6 30 -23 26 -43v-104
+c0 -18 -10 -33 -26 -41v-2v-23c0 -29 -23 -53 -54 -53c-29 0 -53 24 -53 53v8c0 6 -4 11 -10 11h-150c-6 0 -10 -5 -10 -11v-8c0 -29 -24 -53 -53 -53s-53 24 -53 53v25c-14 8 -25 23 -25 41v104c0 20 13 39 31 45c4 2 8 4 8 8l29 119c8 27 32 45 59 45h186
+c29 0 52 -18 60 -45l26 -121c2 -4 5 -6 9 -8zM70 272c-2 -14 8 -27 22 -27h270c6 0 13 7 11 13l-17 84c-8 27 -28 45 -53 45h-166c-25 0 -47 -16 -53 -43zM414 94h-2v100c0 14 -11 25 -25 25h-336c-14 0 -26 -9 -26 -23v-102c0 -12 14 -23 26 -25v-43c0 -16 13 -31 29 -31
+s29 15 29 31v43h221v-43c0 -16 12 -31 28 -31s29 15 29 31v43c14 2 27 13 27 25z" />
     <glyph glyph-name="ion-shipt-icon-add" unicode="&#xf152;" horiz-adv-x="495" 
 d="M17 217c0 128 103 231 231 231s231 -103 231 -231s-103 -231 -231 -231s-231 103 -231 231zM0 217c0 -137 111 -248 248 -248s247 111 247 248s-110 248 -247 248s-248 -111 -248 -248zM268 196h87h17v17v24v17h-17h-87v87v16h-16h-25h-16v-16v-87h-87h-17v-17v-24v-17
 h17h87v-87v-16h16h25h16v16v87z" />

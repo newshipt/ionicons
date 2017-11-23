@@ -1,5 +1,5 @@
 {
-  "build_hash": "c4144752388ef2b04cd9b1f77190b452",
+  "build_hash": "b07d5f799ad9c8fc635270bc77aa3741",
   "prefix": "ion-",
   "version": "2.0.1",
   "name": "Ionicons",
@@ -2461,6 +2461,10 @@
       "name": "shipt-barcode-scanner"
     },
     {
+      "code": "0xf16e",
+      "name": "shipt-barcode-scanner-2"
+    },
+    {
       "code": "0xf163",
       "name": "shipt-buy-again"
     },
@@ -2527,6 +2531,10 @@
     {
       "code": "0xf166",
       "name": "shipt-list-revised"
+    },
+    {
+      "code": "0xf16d",
+      "name": "shipt-magnifing"
     },
     {
       "code": "0xf167",

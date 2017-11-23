@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="21px" height="22px" viewBox="0 0 21 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="On-sale-off_-Category-on" transform="translate(-62.000000, -36.000000)" fill-rule="nonzero" fill="#8F8E94">
+            <g id="header" transform="translate(0.000000, 20.000000)">
+                <g id="header/master">
+                    <g id="Nav/Search-bar" transform="translate(54.000000, 8.000000)">
+                        <g id="search" transform="translate(18.500000, 19.000000) scale(-1, 1) translate(-18.500000, -19.000000) translate(8.000000, 8.000000)">
+                            <g id="search-01">
+                                <path d="M16.9,2.48695652 C13.2,-0.382608696 7.8,0.191304348 4.8,3.63478261 C1.8,7.17391304 2.4,12.3391304 6,15.2086957 C9.6,18.0782609 15.1,17.5043478 18.1,14.0608696 C21.1,10.5217391 20.6,5.35652174 16.9,2.48695652 Z M7,14.0608696 C4,11.6695652 3.5,7.46086957 6,4.59130435 C8.5,1.72173913 12.9,1.24347826 15.9,3.63478261 C18.9,6.02608696 19.4,10.2347826 16.9,13.1043478 C14.4,15.973913 10,16.4521739 7,14.0608696 Z" id="Shape"></path>
+                                <path d="M7.3,15.5913043 C7.5,15.3043478 7.4,14.826087 7,14.5391304 C6.6,14.2521739 6.1,14.1565217 5.9,14.4434783 L1,20.0869565 C0.8,20.2782609 1,20.7565217 1.3,21.0434783 C1.7,21.3304348 2.2,21.426087 2.4,21.1391304 L7.3,15.5913043 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

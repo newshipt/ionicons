@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2017-11-22: Created with FontForge (http://fontforge.org)
+2017-12-8: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20170104 at Wed Nov 22 16:41:31 2017
+Created by FontForge 20170104 at Fri Dec  8 14:55:37 2017
  By Alan Kenyon
 Copyright (c) 2017, Alan Kenyon
 </metadata>
@@ -1966,6 +1966,10 @@ M295 82l70 1c18 26 30 58 33 92l-54 46l-50 -23l-20 -77zM207 345l47 32c-15 4 -30 6
 d="M292 271l18 -18l-134 -135c-2 -2 -6 -4 -9 -4s-7 2 -9 4l-56 56l18 18l47 -47zM208 400c115 0 208 -93 208 -208s-93 -208 -208 -208s-208 93 -208 208s93 208 208 208zM208 1c105 0 191 86 191 191s-86 191 -191 191s-191 -86 -191 -191s86 -191 191 -191z" />
     <glyph glyph-name="ion-volume-low" unicode="&#xf258;" horiz-adv-x="288" 
 d="M199 40l-95 88h-104v128h104l95 88v-304zM255 92l-20 16c17 24 28 52 28 84s-11 60 -28 84l20 16c20 -28 33 -63 33 -100s-13 -72 -33 -100z" />
+    <glyph glyph-name="ion-shipt-special-request" unicode="&#xf16f;" horiz-adv-x="510" 
+d="M389 315c0 -7 -5 -14 -10 -14h-251c-5 0 -9 7 -9 14s4 14 9 14h251c5 0 10 -7 10 -14zM152 204c-5 0 -10 7 -10 14s5 14 10 14h204c5 0 9 -7 9 -14s-4 -14 -9 -14h-204zM510 341l-3 -218c0 -5 -7 -9 -14 -9s-14 4 -14 9v249c0 26 -22 48 -48 48h-355
+c-26 0 -48 -22 -48 -48v-363c0 -26 22 -47 48 -47h249c5 0 9 -7 9 -12s-4 -12 -9 -12h-254c-40 0 -71 33 -71 71v368c0 40 31 71 71 71h365c40 0 72 -33 74 -71v-36zM500 43c5 0 10 -8 10 -15s-5 -14 -10 -14h-66v-66c0 -5 -7 -10 -14 -10s-15 5 -15 10v66h-61
+c-5 0 -10 7 -10 14s5 15 10 15h61v61c0 5 8 10 15 10s14 -5 14 -10v-61h66z" />
     <glyph glyph-name="ion-android-sad" unicode="&#xf3ab;" horiz-adv-x="416" 
 d="M208 160c45 0 83 -26 102 -64h-204c19 38 57 64 102 64zM208 400c114 0 208 -94 208 -208s-93 -208 -208 -208s-208 94 -208 208s93 208 208 208zM208 26c92 0 166 74 166 166s-74 166 -166 166s-166 -74 -166 -166s74 -166 166 -166zM281 213c-18 0 -31 13 -31 31
 s13 31 31 31s31 -13 31 -31s-13 -31 -31 -31zM135 213c-18 0 -31 13 -31 31s13 31 31 31s31 -13 31 -31s-13 -31 -31 -31z" />
